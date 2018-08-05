@@ -12,9 +12,9 @@ When reading the help page, anything that is enclosed in <> is required and anyt
 
 When using subcommand permissions, they'll often be in the format bending.Main.Sub.SubSub. Using an asterisk (*) symbol, you can easily add all of the sub-permissions with one permission node. For example, if you wanted to add all bending abilities, the permission node would be bending.ability.*.
 
-If you'd like to take permissions away, for those that default to a rank, you can remove them by negating their permission. Whenever you want to negate a permission, add the permission with a '-' in front of it. For example, if I'm using PermissionsEX and I wanted to remove the ability for players to create presets, I'd do this command:
+If you'd like to take permissions away, for those that default to a rank, you can remove them by negating their permission. Whenever you want to negate a permission, add the permission with a '-' in front of it. For example, if you're using PermissionsEX and you wanted to remove the ability for players to create presets, you'd do this command:
 
-.. code::
+.. code::general
 
 /pex group (group) add -bending.commands.presets.*
 
@@ -88,7 +88,6 @@ Player Commands
 
 Admin Commands and Permissions
 ------------------------------
-
 General Permissions
 ~~~~~~~~~~~~~~~~~~~
 
