@@ -10,9 +10,10 @@ The base command for the ProjectKorra plugin is /bending. Within this command, t
 
 When reading the help page, anything that is enclosed in <> is required and anything enclosed in [] is optional. The command will still function if you do not fill in anything where the brackets ([]) are. If you see a "|" in a command, it means "or".
 
-If you'd like to take permissions away, for those that default to a rank, you can remove them by negating their permission. Whenever you want to negate a permission, add the permission with a '-' in front of it. For example, if I'm using PermissionsEX and I wanted to remove the ability for players to create presets, I'd do this command:
+If you'd like to take permissions away, for those that default to a rank, you can remove them by negating their permission. Whenever you want to negate a permission, add the permission with a '-' in front of it. For example, if you're using PermissionsEX and you wanted to remove the ability for players to create presets, you'd do this command:
 
-.. code::
+.. code::general
+
 /pex group (group) add -bending.commands.presets.*
 
 Player Commands and Permissions
