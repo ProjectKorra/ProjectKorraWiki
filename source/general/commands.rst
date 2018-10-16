@@ -14,9 +14,7 @@ When using subcommand permissions, they'll often be in the format bending.Main.S
 
 If you'd like to take permissions away, for those that default to a rank, you can remove them by negating their permission. Whenever you want to negate a permission, add the permission with a '-' in front of it. For example, if you're using PermissionsEX and you wanted to remove the ability for players to create presets, you'd do this command:
 
-.. code::general
-
-/pex group (group) add -bending.commands.presets.*
+``/pex group (group) add -bending.commands.presets.*``
 
 Player Commands and Permissions
 -------------------------------
