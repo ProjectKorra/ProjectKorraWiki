@@ -11,7 +11,9 @@ Contributing
 Setting up the environment
 --------------------------
 
-To begin editing the wiki we first need to set our envrionment up. The prequirements needed is just python.
+To begin editing the wiki we first need to set our envrionment up. The prequirements needed is just `python <https://www.python.org/downloads/>`_.
+
+.. note:: When installing python make sure too tick the ``Add Python to PATH`` option to be able to use python within your terminal/command prompt
 
 First thing you need to do is to fork the git repository and then clone it. 
 
@@ -22,7 +24,7 @@ First thing you need to do is to fork the git repository and then clone it.
     git clone https://github.com/exampleusername/ProjectKorraWiki.git
 
 The wiki is made with sphinx using the *sphinx_rtd_theme* from readthedocs. We've bundled all you need into one file.
-So we will install all the requirements by running the following command in terminal / command prompt
+Navigate to the directory you cloned the project to, then we will install all the requirements by running the following command in terminal / command prompt
 
 .. code:: bash
 
