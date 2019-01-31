@@ -20,7 +20,7 @@ This section contains general information thats relative to everyone
     general/index
     Commands and Permissions <general/commands>
     FAQ <general/faq>
-    PKCore <general/pkcore>
+    ProjectKorra <general/pkcore>
 
 Server Admins
 --------------
