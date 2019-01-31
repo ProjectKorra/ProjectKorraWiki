@@ -18,6 +18,9 @@ This section contains general information thats relative to everyone
     :maxdepth: 2
 
     general/index
+    general/commands
+    general/faq
+    general/pkcore
 
 Server Admins
 --------------
