@@ -15,7 +15,7 @@ General
 This section contains general information thats relative to everyone
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     general/index
     Commands and Permissions <general/commands>
