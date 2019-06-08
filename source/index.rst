@@ -15,12 +15,12 @@ General
 This section contains general information thats relative to everyone
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     general/index
-    Commands and Permissions <general/commands>
-    FAQ <general/faq>
-    ProjectKorra <general/pkcore>
+    general/commands
+    general/faq
+    general/pkcore
 
 Server Admins
 --------------
