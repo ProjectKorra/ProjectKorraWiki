@@ -36,7 +36,7 @@ If you want to learn how to contribute to our server, click here!
 
 If you want to learn how to contribute to ProjectKorra as a staff member, click here!
 
-FAQ
+:doc:`FAQ <general/faq.rst>`
 ===
 Searching for information? Here you can find the answers to a lot of commonly asked questions!
 
