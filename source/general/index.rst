@@ -2,16 +2,20 @@
 General
 =======
 
+This is the general section of the wiki, you can find general information regarding ProjectKorra
+
+Background
+============
+ProjectKorra is an open source Spigot plugin, established by MistPhizzle in June 2014, based upon Orion’s original Minecraft: The Last Airbender plugin for Bukkit. ProjectKorra’s purpose is to bring the Avatar: The Last Airbender and Avatar: The Legend of Korra universes into Minecraft, allowing players to choose between the skills shown in the show: Fire, Air, Water, Earth, and Chi.
+
+
 Downloads
 ===============
 The following are all of ProjectKorra's available resources. Only things listed here are official ProjectKorra resources, but there are also community-made addons you can get here!*
 
 - Vanilla
     - Core
-    - RPG
-    - Items
-    - Spirits
-    - Probending
+
 - Modded
     - ATLA Mod
 
@@ -46,3 +50,8 @@ If you want to learn more about joining ProjectKorra, click here.
 
 Useful Links
 ============
+
+- Website
+- Discord
+- Twitter
+- GitHub
