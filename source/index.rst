@@ -7,47 +7,42 @@
 
 Contents
 ========
-This wiki is split into four sections, namely: `General`_, `Server Admins`_, `Players`_, and `Developers`_.
+.. toctree::
+   :maxdepth: 1
 
-General
+   general/index
+   admins/index
+   players/index
+   developers/index
+
+
+`General`_
 --------------
 
-This section contains general information thats relative to everyone
+This section contains general information that's relative to everyone
 
 .. toctree::
-    :maxdepth: 2
+   :maxdepth: 1
 
-    general/index
-    general/commands
-    general/faq
-    general/pkcore
+   general/commands
+   general/wiki_contributing
 
-Server Admins
---------------
+`Server Admins`_
+----------------
 
 This section will contain pages that will help server admins use and configure ProjectKorra.
 
-.. toctree::
-    :maxdepth: 2
-
-    admins/index
-
-Players
+`Players`_
 --------------
 
 This section will help players with commands and general gameplay with the plugin.
 
-.. toctree::
-    :maxdepth: 2
-
-    players/index
-
-Developers
+`Developers`_
 --------------
 
-This section help developers understand ProjectKorra and contain development tutorials.
+This section will help developers understand ProjectKorra and contain development tutorials.
 
-.. toctree::
-    :maxdepth: 2
-
-    developers/index
+.. _General: general/index
+.. _Server Admins: admins/index
+.. _Players: players/index
+.. _Developers: developers/index
