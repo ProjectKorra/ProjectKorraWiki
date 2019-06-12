@@ -46,7 +46,7 @@ This wiki is maintained by our wonderful digital team. If you have any inquiries
 
 - More Info on our `team`_!
 
-- More Info on becoming a :ref:`PK Staff Member`!
+- More Info on becoming a `PK Staff Member`_!
 
 
 Useful Links
