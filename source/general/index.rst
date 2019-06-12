@@ -26,33 +26,41 @@ Contributing
 ============
 ProjectKorra runs off of the contributions of volunteers, however this doesn't just include our staff! Anyone can contribute to ProjectKorra, irrespective of their position on our team.
 
-If you want to learn how to contribute to the development of our mods and plugins, click here!
+-Info on Contributing to `Development`_.
+-Info on Contributing to `Digital Media`_.
+-Info on Contributing to the `Wiki`_.
+-Info on Contributing to the `Server`_.
+-Info on Contributing as a `PK Staff Member`_.
 
-If you want to learn how to contribute to ProjectKorra's media, click here!
-
-If you want to learn how to contribute to this wiki, click :doc:`here <general/wikicontribute.rst>`
-
-If you want to learn how to contribute to our server, click here!
-
-If you want to learn how to contribute to ProjectKorra as a staff member, click here!
-
-FAQ
+`FAQ`_
 ===
-Searching for information? Here you can find the answers to a lot of commonly asked questions!
+Searching for information? Here you can find the answers to a lot of commonly asked `questions`_!
 
 Staff
 =====
 This wiki is maintained by our wonderful digital team. If you have any inquiries feel free to reach out to them on our Discord!
 
-If you want to learn more about our team, click here.
+- More Info on our `team`_!
 
-If you want to learn more about joining ProjectKorra, click here.
+- More Info on becoming a :ref:`PK Staff member`!
 
 
 Useful Links
 ============
 
-- Website
-- Discord
-- Twitter
-- GitHub
+- `Website`_
+- `Discord`_
+- `Twitter`_
+- `GitHub`_
+
+
+.. _Wiki: source/general/wikicontribute.rst
+.. _Server: source/general/servercontribute.rst
+.. _PK_Staff_Member: source/general/staff.rst
+.. _FAQ: source/general/faq.rst
+.. _questions: source/general/faq.rst
+.. _team: https://projectkorra.com/team/
+.. _Website: https://projectkorra.com
+.. _Discord: https://discordapp.com/invite/pPJe5p3
+.. _Twitter:
+.. _GitHub: https://github.com/ProjectKorra/ProjectKorra
