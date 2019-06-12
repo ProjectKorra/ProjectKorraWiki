@@ -46,7 +46,7 @@ This wiki is maintained by our wonderful digital team. If you have any inquiries
 
 - More Info on our `team`_!
 
-- More Info on becoming a :ref:`PK Staff member`!
+- More Info on becoming a :ref:`PK Staff Member`!
 
 
 Useful Links
@@ -60,6 +60,8 @@ Useful Links
 
 .. _Core: https://projectkorra.com/downloads/
 .. _ATLA Mod: https://projectkorra.com/downloads/
+.. _Development:
+.. _Digital Media:
 .. _Wiki: source/general/wikicontribute.rst
 .. _Server: source/general/servercontribute.rst
 .. _PK Staff Member: source/general/staff.rst
