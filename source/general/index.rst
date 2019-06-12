@@ -2,79 +2,47 @@
 General
 =======
 
-How to download
+Downloads
 ===============
+The following are all of ProjectKorra's available resources. Only things listed here are official ProjectKorra resources, but there are also community-made addons you can get here!*
+
+- Vanilla
+    - Core
+    - RPG
+    - Items
+    - Spirits
+    - Probending
+- Modded
+    - ATLA Mod
+
+**\*PROJECTKORRA IS NOT RESPONSIBLE FOR ERRORS CAUSED BY NON PROJECTKORRA RESOURCES RESOURCES DOWNLOADED FROM OUTSIDE OF THE PROJECTKORRA FORUMS ARE ALSO NOT INSPECTED BY PROJECTKORRA AND MAY CONTAIN MALICIOUS CODE** 
 
 Contributing
 ============
+ProjectKorra runs off of the contributions of volunteers, however this doesn't just include our staff! Anyone can contribute to ProjectKorra, irrespective of their position on our team.
 
-Setting up the environment
---------------------------
+If you want to learn how to contribute to the development of our mods and plugins, click here!
 
-To begin editing the wiki we first need to set our envrionment up. The prequirements needed is just `python <https://www.python.org/downloads/>`_.
+If you want to learn how to contribute to ProjectKorra's media, click here!
 
-.. note:: When installing python make sure too tick the ``Add Python to PATH`` option to be able to use python within your terminal/command prompt
+If you want to learn how to contribute to this wiki, click here!
 
-First thing you need to do is to fork the git repository and then clone it. 
+If you want to learn how to contribute to our server, click here!
 
-.. note:: Remember to replace *exampleusername* with your actual github username
-
-.. code:: bash
-
-    git clone https://github.com/exampleusername/ProjectKorraWiki.git
-
-The wiki is made with sphinx using the *sphinx_rtd_theme* from readthedocs. We've bundled all you need into one file.
-Navigate to the directory you cloned the project to, then we will install all the requirements by running the following command in terminal / command prompt
-
-.. code:: bash
-
-    pip install -r .\requirements.txt
-
-This should install both sphinx as well as the theme.
-
-To check that sphinx is correctly install run:
-
-.. code:: bash
-
-    sphinx-build -version
-
-If sphinx has been installed correctly it should output sphinx-build and the version number For example ``sphinx-build 1.7.5``
-
-The reason we need sphinx is so you can view your changes locally before you submit your changes as a pull request.
-
-Viewing your changes locally
-----------------------------
-
-Once you have made some changes and you are ready to see your edits locally open terminal / command prompt and run
-
-.. code:: bash
-
-    .\make.bat html
-
-This should build a copy of the wiki into the build folder in the root directory of your repository.
-To view the wiki double click on ``build > html > index.html``
-
-Submitting your changes 
------------------------
-
-Now that you are happy with your changes remember to commit them using git and make sure to put a discriptive message indicating what you have done.
-If you are fixing/completing an issue please also reference the issue number in your commit message.
-
-Now you are ready to make a pull request so go ahead and create one `here <https://github.com/ProjectKorra/ProjectKorraWiki/compare>`_.
-
-Remember to select compare across forks as shown in the screenshot below
-
-.. image:: /_static/images/contributing_pr_1.png
-
-Once you are ready and all happy hit *Create pull request*
-
-.. note:: TODO:// More screenshots need to be placed here.
+If you want to learn how to contribute to ProjectKorra as a staff member, click here!
 
 FAQ
 ===
+Searching for information? Here you can find the answers to a lot of commonly asked questions!
 
 Staff
 =====
+This wiki is maintained by our wonderful digital team. If you have any inquiries feel free to reach out to them on our Discord!
+
+If you want to learn more about our team, click here.
+
+If you want to learn more about joining ProjectKorra, click here.
+
 
 Useful Links
 ============
