@@ -13,7 +13,7 @@ ProjectKorra is an open source Spigot plugin, established by MistPhizzle in June
 Who runs ProjectKorra?
 ----------------------
 
-There is a volunteer staff team that helps maintain ProjectKorra: from developers and digital media people, to server admins and moderators! Despite the staff team however, ProjectKorra heavily relies on its community and would not successful without it.
+There is a volunteer staff team that helps maintain ProjectKorra: from developers and digital media people, to server admins and moderators! Despite the staff team however, ProjectKorra heavily relies on its community and would not be successful without it.
 
 How can I get involved with ProjectKorra?
 -----------------------------------------
