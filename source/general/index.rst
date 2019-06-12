@@ -15,10 +15,10 @@ Downloads
 The following are all of ProjectKorra's available resources. Only things listed here are official ProjectKorra resources, but there are also community-made addons you can get here!*
 
 - Vanilla
-    - Core
+    - `Core`_
 
 - Modded
-    - ATLA Mod
+    - `ATLA Mod`_
 
 **\*PROJECTKORRA IS NOT RESPONSIBLE FOR ERRORS CAUSED BY NON PROJECTKORRA RESOURCES RESOURCES DOWNLOADED FROM OUTSIDE OF THE PROJECTKORRA FORUMS ARE ALSO NOT INSPECTED BY PROJECTKORRA AND MAY CONTAIN MALICIOUS CODE** 
 
@@ -27,13 +27,17 @@ Contributing
 ProjectKorra runs off of the contributions of volunteers, however this doesn't just include our staff! Anyone can contribute to ProjectKorra, irrespective of their position on our team.
 
 -Info on Contributing to `Development`_.
+
 -Info on Contributing to `Digital Media`_.
+
 -Info on Contributing to the `Wiki`_.
+
 -Info on Contributing to the `Server`_.
+
 -Info on Contributing as a `PK Staff Member`_.
 
 `FAQ`_
-===
+=======
 Searching for information? Here you can find the answers to a lot of commonly asked `questions`_!
 
 Staff
@@ -54,9 +58,11 @@ Useful Links
 - `GitHub`_
 
 
+.. _Core: https://projectkorra.com/downloads/
+.. _ATLA Mod: https://projectkorra.com/downloads/
 .. _Wiki: source/general/wikicontribute.rst
 .. _Server: source/general/servercontribute.rst
-.. _PK_Staff_Member: source/general/staff.rst
+.. _PK Staff Member: source/general/staff.rst
 .. _FAQ: source/general/faq.rst
 .. _questions: source/general/faq.rst
 .. _team: https://projectkorra.com/team/
