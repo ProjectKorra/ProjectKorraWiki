@@ -30,7 +30,7 @@ If you want to learn how to contribute to the development of our mods and plugin
 
 If you want to learn how to contribute to ProjectKorra's media, click here!
 
-If you want to learn how to contribute to this wiki, click here!
+If you want to learn how to contribute to this wiki, click :doc:`here <general/wikicontribute.rst>`
 
 If you want to learn how to contribute to our server, click here!
 
