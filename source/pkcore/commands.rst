@@ -1,21 +1,19 @@
 ========================
 Commands and Permissions
 ========================
-Description
-===========
+
 .. note:: This page contains all of the commands and permissions in ProjectKorra (Core). It was last updated for v1.8.7.
+
 Commands
---------
+========
 This following chart represents all of the available, functional, commands in ProjectKorra. 
 
 The base command for the ProjectKorra plugin is /bending. There are aliases for this command. Aliases for /bending are /b, /bend, /tla, /mtla, /korra, /projectkorra, /pk, /minecrafttla. 
 
-Commands are all actually subcommands of /bending, where one would do /bending <subcommand> to perform a function.
+.. note:: Commands are all actually subcommands of /bending, where one would do /bending <subcommand> to perform a function. (i.e /bending help)
 
-i.e /bending help
-
-<> - mandatory
-[] - optional
+| <> - mandatory
+| [] - optional
 
 
 +---------------------+--------------------------------------------------------------------------------------+---------------------------------------+---------+---------------------------------------------+
@@ -83,16 +81,17 @@ i.e /bending help
 +---------------------+--------------------------------------------------------------------------------------+---------------------------------------+---------+---------------------------------------------+
 
 
++++++
+
 Permissions
------------
+===========
 The following table represents all other permissions in ProjectKorra.
 
 To give or take permissions you can either define them in your permissions.yml or use a plugin like PermissionsEx or GroupManager. These will allow you to remove or give the following permissions nodes to your players.
 
-Permissions marked default are available to everyone in absence of a permissions plugin and OP is available to OP.
+Permissions marked default are available to everyone in the absence of a permissions plugin and op is available to opped players.
 
-
-**CERTAIN ABILITIES ARE DEFAULT TO OP ONLY**
+.. note:: Certain abilities (namely Bloodbending and AvatarState) can only be used by opped players by default
 
 +--------------------------------+-----------------------------------------------------------+------------+
 | Permission                     | Description                                               | Default    |

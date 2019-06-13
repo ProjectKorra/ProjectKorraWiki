@@ -5,44 +5,28 @@
 
 .. include:: ../README.rst
 
-Contents
-========
 .. toctree::
+   :caption: General
+   :name: generaltoc
    :maxdepth: 1
 
-   general/index
-   admins/index
-   players/index
-   developers/index
+   Index <general/index>
+   Downloads <general/downloads>
+   ProjectKorra Team <general/staff>
+   Contributing to the Wiki <general/wiki_contributing>
 
+This section contains general information about the ProjectKorra team, it's projects, and
+how community members can get involved with contributing to ProjectKorra in various ways.
 
-`General`_
---------------
-
-This section contains general information that's relative to everyone
 
 .. toctree::
+   :caption: ProjectKorra Core
+   :name: coretoc
    :maxdepth: 1
 
-   general/commands
-   general/wiki_contributing
+   About Core <pkcore/about>
+   Commands and Permissions <pkcore/commands>
+   pkcore/abilities
 
-`Server Admins`_
-----------------
-
-This section will contain pages that will help server admins use and configure ProjectKorra.
-
-`Players`_
---------------
-
-This section will help players with commands and general gameplay with the plugin.
-
-`Developers`_
---------------
-
-This section will help developers understand ProjectKorra and contain development tutorials.
-
-.. _General: general/index
-.. _Server Admins: admins/index
-.. _Players: players/index
-.. _Developers: developers/index
+As the name suggests, ProjectKorra Core is the main plugin the ProjectKorra team works on.
+Any side plugins that use the ProjectKorra API will require this plugin to properly work.
