@@ -3,7 +3,7 @@
 General
 =======
 
-This is the general section of the wiki, you can find general information regarding ProjectKorra
+Welcome to the ProjectKorraWiki
 
 Background
 ============
@@ -12,7 +12,7 @@ ProjectKorra is an open source Spigot plugin, established by MistPhizzle in June
 
 Downloads
 ===============
-The following are all of ProjectKorra's available resources. Only things listed here are official ProjectKorra resources, but there are also community-made addons you can get here!*
+The following are all of ProjectKorra's available resources. Only things listed here are official ProjectKorra resources, but there are also community-made addons you can get on our `forums`_!*
 
 - Vanilla
     - `Core`_
@@ -38,7 +38,16 @@ ProjectKorra runs off of the contributions of volunteers, however this doesn't j
 
 `FAQ`_
 =======
-Searching for information? Here you can find the answers to a lot of commonly asked `questions`_!
+Here are some responses to frequently asked questions!
+
+++++
+How do I fix JedCore?
+++++
+JedCore is a side-plugin not maintained by ProjectKorra, if you need assistance you should contact the maintainer of JedCore on their GitHub!
+++++
+How do I make a custom ability?
+++++
+To make a custom ability, you need to be able to code in Java and have a general knowledge of Spigot API. With this in mind you can also find more info on the creating a `Custom Ability`_ page.
 
 Staff
 =====
@@ -58,17 +67,19 @@ Useful Links
 - `GitHub`_
 
 
+.. _forums: https://projectkorra.com/forum/resources/
 .. _Core: https://projectkorra.com/downloads/
 .. _ATLA Mod: https://projectkorra.com/downloads/
-.. _Development:
+.. _Development: 
 .. _Digital Media:
 .. _Wiki: source/general/wikicontribute.rst
 .. _Server: source/general/servercontribute.rst
 .. _PK Staff Member: source/general/staff.rst
 .. _FAQ: source/general/faq.rst
 .. _questions: source/general/faq.rst
+.. _Custom Ability: source/developers/customabil.rst
 .. _team: https://projectkorra.com/team/
 .. _Website: https://projectkorra.com
 .. _Discord: https://discordapp.com/invite/pPJe5p3
-.. _Twitter:
+.. _Twitter: https://twitter.com/projectkorra?lang=en
 .. _GitHub: https://github.com/ProjectKorra/ProjectKorra
