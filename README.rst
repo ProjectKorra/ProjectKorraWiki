@@ -6,7 +6,7 @@ ProjectKorra Official Wiki
     :target: https://projectkorrawiki.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-Welcome to ProjectKorraWiki, the official information source for the minecraft plugin `ProjectKorra <https://projectkorra.com>`_.
+Welcome to ProjectKorraWiki, the official information source for the Minecraft plugin `ProjectKorra <https://projectkorra.com>`_.
 
 Contributing
 ============
