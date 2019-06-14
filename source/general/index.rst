@@ -1,6 +1,6 @@
 .. _general:
 =======
-General
+ProjectKorra
 =======
 
 Welcome to the ProjectKorra Wiki, here you can find information regarding everything ProjectKorra!
