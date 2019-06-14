@@ -3,7 +3,7 @@
 General
 =======
 
-Welcome to the ProjectKorraWiki
+Welcome to the ProjectKorra Wiki, here you can find information regarding everything ProjectKorra!
 
 Background
 ============
@@ -38,16 +38,23 @@ ProjectKorra runs off of the contributions of volunteers, however this doesn't j
 
 `FAQ`_
 =======
-Here are some responses to frequently asked questions!
 
 ++++
 How do I fix JedCore?
 ++++
 JedCore is a side-plugin not maintained by ProjectKorra, if you need assistance you should contact the maintainer of JedCore on their GitHub!
+
 ++++
-How do I make a custom ability?
+How do I make a custom/addon ability?
 ++++
-To make a custom ability, you need to be able to code in Java and have a general knowledge of Spigot API. With this in mind you can also find more info on the creating a `Custom Ability`_ page.
+ProjectKorra has a neat API with this especially in mind. You can find more info on the `Creating Custom Abilities`_ page.
+
+++++
+ProjectKorra isn't working as it should, how do I fix it?
+++++
+The first thing you should do is make a bug report on our forums or GitHub. A developer will see it and try and help you resolve your issue. You can also send a message on our Discord and either a dev or a knowledgeable community member will come to assist you!
+
+Can't find your question? Click here for even more `FAQ`_!
 
 Staff
 =====
@@ -77,7 +84,7 @@ Useful Links
 .. _PK Staff Member: source/general/staff.rst
 .. _FAQ: source/general/faq.rst
 .. _questions: source/general/faq.rst
-.. _Custom Ability: source/developers/customabil.rst
+.. _Creating Custom Abilities: source/developers/customabil.rst
 .. _team: https://projectkorra.com/team/
 .. _Website: https://projectkorra.com
 .. _Discord: https://discordapp.com/invite/pPJe5p3
