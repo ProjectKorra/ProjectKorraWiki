@@ -4,50 +4,39 @@
    contain the root `toctree` directive.
 
 .. include:: ../README.rst
-
-Contents
 ========
-This wiki is split into four sections, namely: `General`_, `Server Admins`_, `Players`_, and `Developers`_.
+ProjectKorra Wiki
+========
+
+Welcome to the ProjectKorra wiki, here you can find information related to all things ProjectKorra!
+
 
 General
 --------------
 
-This section contains general information thats relative to everyone
+This section contains general information about ProjectKorra.
 
 .. toctree::
     :maxdepth: 2
 
     general/index
-    general/commands
-    general/faq
-    general/pkcore
 
-Server Admins
---------------
 
-This section will contain pages that will help server admins use and configure ProjectKorra.
 
-.. toctree::
-    :maxdepth: 2
+Core
+---------------
 
-    admins/index
-
-Players
---------------
-
-This section will help players with commands and general gameplay with the plugin.
+This section contains information related to the ProjectKorra CORE plugin.
 
 .. toctree::
     :maxdepth: 2
+    
+    core/index
+    
 
-    players/index
+TBA
+----------------
+This wiki is a work in progress, if you notice any issue or error, you are welcome to report it on our `GitHub`_
 
-Developers
---------------
+.. `GitHub`_: https://github.com/ProjectKorra/ProjectKorraWiki/issues
 
-This section help developers understand ProjectKorra and contain development tutorials.
-
-.. toctree::
-    :maxdepth: 2
-
-    developers/index
