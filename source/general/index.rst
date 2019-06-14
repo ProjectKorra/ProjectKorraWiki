@@ -14,10 +14,10 @@ Downloads
 ===============
 The following are all of ProjectKorra's available resources. Only things listed here are official ProjectKorra resources, but there are also community-made addons you can get on our `forums`_!*
 
-- Vanilla
+-Vanilla
     - `Core`_
 
-- Modded
+-Modded
     - `ATLA Mod`_
 
 **\*PROJECTKORRA IS NOT RESPONSIBLE FOR ERRORS CAUSED BY NON PROJECTKORRA RESOURCES RESOURCES DOWNLOADED FROM OUTSIDE OF THE PROJECTKORRA FORUMS ARE ALSO NOT INSPECTED BY PROJECTKORRA AND MAY CONTAIN MALICIOUS CODE** 
