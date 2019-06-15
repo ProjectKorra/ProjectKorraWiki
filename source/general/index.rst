@@ -2,20 +2,11 @@
 General Index
 =============
 
-Contents
-========
-
-- `Downloads`_
-- `Staff`_
-- `Contributing to the Wiki`_
-
-+++++
-
 Contributing
 ============
 Joining the ProjectKorra team is the best way to contribute, but one can also contribute even when not part of the team!
 
-- `How to contribute to the Wiki`_!
+- :ref:`wikicontributing`!
 - More coming soon!
 
 +++++
@@ -57,10 +48,6 @@ Useful Links
 - Follow us on `Twitter`_ to stay up to date on what is happening!
 - `GitHub`_ has all our code and is the place to contribute!
 
-.. _Downloads: downloads.html
-.. _Staff: staff.html
-.. _Contributing to the Wiki: wiki_contributing.html
-.. _How to contribute to the Wiki: wiki_contributing.html
 .. _Website: https://projectkorra.com
 .. _Discord: https://discordapp.com/invite/pPJe5p3
 .. _Twitter: https://twitter.com/ProjectKorra

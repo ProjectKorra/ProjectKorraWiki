@@ -11,7 +11,7 @@ Airbending abilities tend to focus on movement and speed, but also have a variet
     :name: airtree
     :maxdepth: 1
 
-    ability_dir/airswipe
+    abilitypages/airswipe
 
 Earthbending
 ============

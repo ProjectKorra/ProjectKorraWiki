@@ -7,13 +7,13 @@
 
 .. toctree::
    :caption: General
-   :name: generaltoc
+   :name: generaltree
    :maxdepth: 1
 
-   Index <general/index>
-   Downloads <general/downloads>
-   ProjectKorra Team <general/staff>
-   Contributing to the Wiki <general/wiki_contributing>
+   general/index
+   general/downloads
+   general/pkteam
+   general/wikicontributing
 
 This section contains general information about the ProjectKorra team, it's projects, and
 how community members can get involved with contributing to ProjectKorra in various ways.
@@ -21,11 +21,11 @@ how community members can get involved with contributing to ProjectKorra in vari
 
 .. toctree::
    :caption: ProjectKorra Core
-   :name: coretoc
+   :name: coretree
    :maxdepth: 1
 
-   About Core <pkcore/about>
-   Commands and Permissions <pkcore/commands>
+   pkcore/about
+   pkcore/commands
    pkcore/abilities
 
 As the name suggests, ProjectKorra Core is the main plugin the ProjectKorra team works on.

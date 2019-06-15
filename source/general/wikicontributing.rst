@@ -1,3 +1,5 @@
+.. _wikicontributing:
+
 ========================
 Contributing to the Wiki
 ========================
