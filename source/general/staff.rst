@@ -82,7 +82,7 @@ Server Staff
 
 
 .. |alexthecoder| image:: alexcoder.png
-.. |omnicypher| image:: omnicypher.png
+.. |omnicypher| image:: https://crafatar.com/avatars/a197291a-cd78-43bb-aa38-52b7c82bc68c
 .. |sobki| image:: sobki.png
 .. |varhagna| image:: varhagna.png
 .. |aether| image:: aether.png
