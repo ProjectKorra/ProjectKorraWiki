@@ -4,39 +4,28 @@
    contain the root `toctree` directive.
 
 .. include:: ../README.rst
-========
-ProjectKorra Wiki
-========
 
-Welcome to the ProjectKorra wiki, here you can find information related to all things ProjectKorra!
+.. _home:
 
-
-General
---------------
-
-This section contains general information about ProjectKorra.
-
-.. toctree::
-    :maxdepth: 2
-
-    general/index
-
-
-
-Core
----------------
-
-This section contains information related to the ProjectKorra CORE plugin.
-
-.. toctree::
-    :maxdepth: 2
-    
-    core/index
-    
-
-TBA
-----------------
 This wiki is a work in progress, if you notice any issue or error, you are welcome to report it on our `GitHub`_
 
-.. `GitHub`_: https://github.com/ProjectKorra/ProjectKorraWiki/issues
 
+.. toctree::
+    :maxdepth: 1
+    :caption: General
+    :name: general
+
+    Home <general/index>
+    FAQ <general/faq>
+    Contributing to the Wiki <general/wikicontribute>
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Core
+    :name: core
+    
+    Home <core/index>
+    Commands and Permissions <core/commands>
+    
+.. _GitHub: https://github.com/ProjectKorra/ProjectKorraWiki/issues

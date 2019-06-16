@@ -1,8 +1,11 @@
-Contributing to the Wiki
-========================
+.. _wikicontribute:
 
-Setting up the environment
---------------------------
+##########################
+Contributing to the Wiki
+##########################
+
+Creating Your Environment
+============================
 
 To begin editing the wiki we first need to set our envrionment up. The prequirements needed is just `python <https://www.python.org/downloads/>`_.
 
@@ -35,8 +38,8 @@ If sphinx has been installed correctly it should output sphinx-build and the ver
 
 The reason we need sphinx is so you can view your changes locally before you submit your changes as a pull request.
 
-Viewing your changes locally
-----------------------------
+Viewing Your Changes
+============================
 
 Once you have made some changes and you are ready to see your edits locally open terminal / command prompt and run
 
@@ -47,8 +50,8 @@ Once you have made some changes and you are ready to see your edits locally open
 This should build a copy of the wiki into the build folder in the root directory of your repository.
 To view the wiki double click on ``build > html > index.html``
 
-Submitting your changes 
------------------------
+Submitting Your Changes
+=========================
 
 Now that you are happy with your changes remember to commit them using git and make sure to put a discriptive message indicating what you have done.
 If you are fixing/completing an issue please also reference the issue number in your commit message.

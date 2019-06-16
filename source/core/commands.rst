@@ -1,11 +1,17 @@
-========================
+.. _commands:
+
+########################
 Commands and Permissions
-========================
+########################
+
 Description
-===========
+=============
+
 .. note:: This page contains all of the commands and permissions in ProjectKorra (Core). It was last updated for v1.8.7.
+
 Commands
---------
+==========
+
 This following chart represents all of the available, functional, commands in ProjectKorra. 
 
 The base command for the ProjectKorra plugin is /bending. There are aliases for this command. Aliases for /bending are /b, /bend, /tla, /mtla, /korra, /projectkorra, /pk, /minecrafttla. 
@@ -84,7 +90,7 @@ i.e /bending help
 
 
 Permissions
------------
+=============
 The following table represents all other permissions in ProjectKorra.
 
 To give or take permissions you can either define them in your permissions.yml or use a plugin like PermissionsEx or GroupManager. These will allow you to remove or give the following permissions nodes to your players.

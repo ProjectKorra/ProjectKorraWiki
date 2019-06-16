@@ -1,9 +1,9 @@
-~~~~~~~~~~~~~~~~~~~~
-ProjectKorra Core
-~~~~~~~~~~~~~~~~~~~~
+####################
+Core
+####################
 
 Introduction
-~~~~~~~~~~~~
+==============
 ProjectKorra Core is an open source Spigot plugin, established by MistPhizzle
 in June 2014, based upon Orion's original *Minecraft: The Last
 Airbender* plugin for Bukkit. 
@@ -14,7 +14,7 @@ into Minecraft, allowing players to choose between the skills shown in
 the show: Fire, Air, Water, Earth, and Chi.
 
 Features
-~~~~~~~~
+==========
 `ProjectKorra Core`_ is a plugin based off of the bending universe. 
 Players can choose from 5 skills: Fire, Air,
 Water, Earth, and Chi. Each element has its own respective playstyle, so
@@ -42,21 +42,18 @@ it's up to the player to find the one that suits them the most.
    anything from preventing them from bending to temporarily paralyzing
    them.
    
-`Commands and Permissions`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:ref:`Commands and Permissions <commands>`
+============================================
 You can find a description of every native permission and command in ProjectKorra on our `Commands and Permissions`_ page!
 
-`Creating Custom Abilities`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-ProjectKorra Core supports custom abilities in our API, click here and find out more about how you can make your very own `ability`_!
+:ref:`Custom Abilities <customabil>`
+======================================
+ProjectKorra Core supports custom abilities in our API, click here to find out about how you can make your own :ref:`custom abilities <customabil>`!
 
 `ProjectKorra API`_
-~~~~~~~~~~~~~~~~~~~
+=====================
 Developers can also use our nifty API to create addon abilities and side
 plugins that hook into ProjectKorra Core.
 
 .. _ProjectKorra Core: https://projectkorra.com/projectkorra-core/
-.. _Commands and Permissions: source/core/commands.rst
-.. _Creating Custom Abilities: source/core/development/customabil.rst
-.. _ability: `Creating Custom Abilities`_
 .. _ProjectKorra API: http://projectkorra.com/docs/

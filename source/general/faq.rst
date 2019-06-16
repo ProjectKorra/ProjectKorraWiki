@@ -1,6 +1,8 @@
-====
-FAQ
-====
+.. _faq:
+
+############################
+Frequently Asked Questions
+############################
 
 General
 =======
@@ -18,7 +20,7 @@ There is a volunteer staff team that helps maintain ProjectKorra: from developer
 How can I get involved with ProjectKorra?
 -----------------------------------------
 
-Absolutely anyone can become involved with ProjectKorra. We have many departments that we would love for people to be involved in, such as Development, Moderation, Server Building, or Digital Team. Apply by clicking `here <https://projectkorra.com/join-the-team/>`_!
+Absolutely anyone can become involved with ProjectKorra. We have many departments that we would love for people to be involved in, such as Development, Moderation, Server Building, or Digital Team. `Apply here <https://projectkorra.com/join-the-team/>`_!
 
 What version does the current version support?
 ----------------------------------------------
@@ -35,7 +37,7 @@ You can click each plugin name to go to the latest builds: `ProjectKorra(CORE) <
 How can I report a bug?
 -----------------------
 
-We encourage all bugs, big and small, be reported in the proper bug report section of the forum. Please report all bugs `here <https://projectkorra.com/forum/categories/help-and-support.91/>`_. If fixable, all bugs are fixed ASAP. As of ProjectKorra(CORE) v1.5.0, there is a debug feature built into the plugin. This will help us a ton when you submit a bug report if you include the debug.txt created when you use the /bending debug command in addition to a log of your console if it shows a visible error. Debug will help us by listing ProjectKorra plugins and dependencies so that we can isolate the source of the problem. This speeds up the bug fixing process A LOT.
+We encourage all bugs, big and small, be reported in the proper bug report section of the forum. Please report all bugs `on our forums <https://projectkorra.com/forum/categories/help-and-support.91/>`_. If fixable, all bugs are fixed ASAP. As of ProjectKorra(CORE) v1.5.0, there is a debug feature built into the plugin. This will help us a ton when you submit a bug report if you include the debug.txt created when you use the /bending debug command in addition to a log of your console if it shows a visible error. Debug will help us by listing ProjectKorra plugins and dependencies so that we can isolate the source of the problem. This speeds up the bug fixing process A LOT.
 
 How can I suggest a feature?
 ----------------------------
