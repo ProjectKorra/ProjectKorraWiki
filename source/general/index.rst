@@ -71,10 +71,10 @@ This wiki is maintained by our wonderful digital team. If you have any inquiries
 Useful Links
 ==============
 
-- `Website`_
-- `Discord`_
-- `Twitter`_
-- `GitHub`_
+- Visit our `Website`_, where you can find our forums, downloads, and bug-report tickets.
+- Join our `Discord`_ server! There you can get help from developers, post suggestions, and chat with community members!
+- Follow our `Twitter`_!
+- Go to our `GitHub`_ to see all the latest developments and updates!
 
 	
 .. _forums: https://projectkorra.com/forum/resources/
