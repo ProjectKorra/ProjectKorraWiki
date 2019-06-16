@@ -4,8 +4,9 @@
 ProjectKorra Staff
 ####################
 
-This page contains information regarding current staff members, applying for a position, and the general responsibilities of each staff member.
+This page contains information regarding current staff members, applying for a position, and the general responsibilities of each staff member. 
 
+If you are interested in joining the team, click `here <https://projectkorra.com/join-the-team/>`_ to apply.
 
 Members
 =========
@@ -20,7 +21,11 @@ MistPhizzle
 
 Dev Team
 ----------
-The Dev Team is the backbone of ProjectKorra. Their main responsibilities include maintaining our projects' code and responding to bug-reports.
+The Dev Team is the backbone of ProjectKorra. Their main responsibilities include maintaining our projects' code and responding to bug-reports. 
+
+If you want to become a developer, click the link below to apply.
+
+`Join the Dev Team! <https://projectkorra.com/join-the-team/>`_
 
 Lead Developers
 ^^^^^^^^^^^^^^^^^
@@ -51,7 +56,11 @@ Mnesikos
 
 Digital Team
 --------------
-The Digital Team focuses making ProjectKorra look good. Their main responsibilities include making videos, maintaining our wiki, and managing social media.
+The Digital Team focuses making ProjectKorra look good. Their main responsibilities include making videos, maintaining our wiki, and managing social media. 
+
+If you want to join the digital team, click the link below to apply
+
+`Join the Digital Team! <https://projectkorra.com/join-the-team/>`_
 
 Wiki Maintainers
 ^^^^^^^^^^^^^^^^^^^
