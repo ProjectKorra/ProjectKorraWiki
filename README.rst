@@ -1,6 +1,6 @@
-==========================
+############################
 ProjectKorra Official Wiki
-==========================
+############################
 
 .. image:: https://readthedocs.org/projects/projectkorrawiki/badge/?version=latest
     :target: https://projectkorrawiki.readthedocs.io/en/latest/?badge=latest
@@ -9,7 +9,7 @@ ProjectKorra Official Wiki
 Welcome to the ProjectKorra Wiki, the official source of information for all things relating to `ProjectKorra <https://projectkorra.com>`_.
 
 Contributing
-============
+==============
 
 ProjectKorraWiki is written in `reStructuredText (reST) <https://en.wikipedia.org/wiki/ReStructuredText>`_ format.  
 
