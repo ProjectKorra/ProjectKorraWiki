@@ -12,4 +12,5 @@ Members
 
 Developers
 ----------
+Developers are the backbone of ProjectKorra. Their responsibilities include maintaining our plugins' code, responding to bug reports, and 
 
