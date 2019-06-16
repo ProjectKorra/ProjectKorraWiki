@@ -17,7 +17,7 @@ Admins are responsible for the day to day operations of ProjectKorra.
 
 Admins
 ^^^^^^^^
-MistPhizzle
+|mist| MistPhizzle
 
 Dev Team
 ----------
@@ -29,29 +29,29 @@ If you want to become a developer, click the link below to apply.
 
 Lead Developers
 ^^^^^^^^^^^^^^^^^
-OmniCypher
-Sobki
+|omnicypher| OmniCypher
+|sobki| Sobki
 
 Developers
 ^^^^^^^^^^^^
-AlexTheCoder
-Coolade
-Finn_Bueno\_
-jacklin213
-PhanaticD
-plasmarob
-Simplicitee
-StrangeOne101
+|alexthecoder| AlexTheCoder
+|coolade| Coolade
+|finn_bueno_|Finn_Bueno\_
+|jacklin213| jacklin213
+|phanaticd| PhanaticD
+|plasmarob| plasmarob
+|simplicitee| Simplicitee
+|strangeone101| StrangeOne101
 
 Junior Developers
 ^^^^^^^^^^^^^^^^^^^
-Varhagna
+|varhagna| Varhagna
 
 Mod Developers
 ^^^^^^^^^^^^^^^^
-FavouriteDragon
-Mahtaran
-Mnesikos
+|favouritedragon| FavouriteDragon
+|mahtaran| Mahtaran
+|mnesikos| Mnesikos
 
 
 Digital Team
@@ -64,7 +64,7 @@ If you want to join the digital team, click the link below to apply
 
 Wiki Maintainers
 ^^^^^^^^^^^^^^^^^^^
-Jacksonn
+|jackson| Jacksonn
 
 Server Team
 -------------
@@ -72,12 +72,12 @@ The Server Team gives players a unique ProjectKorra experience. Their main respo
 
 Server Admins
 ^^^^^^^^^^^^^^
-Hades
-Aether
+|hades| Hades
+|aether| Aether
 
 Server Staff
 ^^^^^^^^^^^^^^
-anddrew
+|anddrew| anddrew
 
 
 
@@ -92,9 +92,9 @@ anddrew
 .. |floory565| image:: floory.png
 .. |hades| image:: hades.png
 .. |jacklin213| image:: jacklin.png
-.. |Jackson| image:: jackson.png
-.. |Mahtaran| image:: mahta.png
-.. |Mnesikos| image:: mnesi.png
+.. |jackson| image:: jackson.png
+.. |mahtaran| image:: mahta.png
+.. |mnesikos| image:: mnesi.png
 .. |coolade| image:: coolade.png
 .. |phanaticd| image:: phanatic.png
 .. |pickle9775| image:: pickle.png
