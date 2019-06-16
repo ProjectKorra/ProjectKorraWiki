@@ -15,13 +15,13 @@ Downloads
 ===========
 The following are all of ProjectKorra's available resources. Only things listed here are official ProjectKorra resources, but there are also community-made addons you can get on our `forums`_!*
 
-* Vanilla
+* Spigot
 
   * `Core`_
 
-* Modded
+* Forge
 
-  * `ATLA Mod`_
+  * `AM2: Out of the Iceberg`_
 
 **\*PROJECTKORRA IS NOT RESPONSIBLE FOR ERRORS CAUSED BY NON PROJECTKORRA RESOURCES RESOURCES DOWNLOADED FROM OUTSIDE OF THE PROJECTKORRA FORUMS. THEY ARE NOT INSPECTED BY PROJECTKORRA AND MAY CONTAIN MALICIOUS CODE** 
 
