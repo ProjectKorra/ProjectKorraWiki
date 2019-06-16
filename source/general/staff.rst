@@ -39,7 +39,7 @@ Developers
 
 |coolade| Coolade
 
-|finnbueno| Finn_Bueno\_
+|finnbueno| 
 
 |jacklin213| jacklin213
 
