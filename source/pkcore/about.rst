@@ -7,14 +7,14 @@ in June 2014, based upon Orion's original *Minecraft: The Last
 Airbender* plugin for Bukkit. ProjectKorra's purpose is to bring the
 *Avatar: The Last Airbender* and *Avatar: The Legend of Korra* universe
 into Minecraft, allowing players to choose between the skills shown in
-the show: Fire, Air, Water, Earth, and Chi.
+the show: Fire, Air, Water, Earth, and Chiblocking.
 
 Features
 ========
 
 `ProjectKorra Core`_ is a plugin based off of the bending universe, thus
 so there must be bending! Players can choose from 5 skills: Fire, Air,
-Water, Earth, and Chi. Each element has its own respective playstyle, so
+Water, Earth, and Chiblocking. Each element has its own respective playstyle, so
 it's up to the player to find the one that suits them the most.
 
 Elements
@@ -37,9 +37,9 @@ Elements
    Similar to Earthbenders, they employ both defensive and offensive
    strategies to accomplish this.
 
--  Chi is the anti-bending fighting style. Chiblockers use critically
+-  Chiblocking is the anti-bending fighting style. Chiblockers use critically
    placed kicks and punches to block chi paths in bender's bodies, doing
-   anything from preventing them from bending to temporarily paralyzing
+   anything from disabling their bending to temporarily paralyzing
    them.
 
 `ProjectKorra API`_

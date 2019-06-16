@@ -8,7 +8,7 @@ AirSwipe is the main offensive ability for air, where the user creates a horizon
 
 How to Use
 ==========
-On your AirSwipe slot, simply left click to create an AirSwipe
+Left Click on your AirSwipe bind
 
 +++++
 
