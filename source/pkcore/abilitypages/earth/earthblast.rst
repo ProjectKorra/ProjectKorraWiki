@@ -16,7 +16,6 @@ throw the earth block.
 
 Config
 ======
-blah blah blah balance
 
 .. TODO: Put a code block here of the config
 

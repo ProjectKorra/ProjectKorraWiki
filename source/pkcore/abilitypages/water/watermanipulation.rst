@@ -16,7 +16,6 @@ of water to go toward.
 
 Config
 ======
-blah blah blah balance
 
 .. TODO: Put a code block here of the config
 

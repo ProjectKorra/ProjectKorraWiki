@@ -4,12 +4,11 @@ About ProjectKorra
 
 ProjectKorra was originally a Bukkit plugin that was updated for Spigot by MistPhizzle, a helper on the
 Bukkit version. Since then ProjectKorra has grown into a team that works on various projects all based
-around the *Avatar: The Last Airbender* and *The Legend of Korra* universe. The ProjectKorra team has
-many departments that people, including the community members, can contribute to now.
+around adapting the *Avatar: The Last Airbender* and *The Legend of Korra* universe into Minecraft.
 
 Contributing
 ============
-Joining the ProjectKorra team is the best way to contribute, but one can also contribute even when not part of the team!
+:ref:`Joining the team <jointheteam>` is the best way to contribute, but one can also contribute even when not part of the team!
 
 - :ref:`wikicontributing`!
 - More coming soon!

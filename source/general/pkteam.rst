@@ -25,6 +25,7 @@ Developers
 - jacklin213
 - plasmarob
 - FavouriteDragon ``Forge Developer``
+- Mahtaran ``Forge Developer``
 
 Digital Media
 -------------
@@ -71,9 +72,11 @@ Our administrators are the people in charge of organizing the entire team and co
 
 +++++
 
+.. _jointheteam:
+
 Join the Team
 =============
-The ProjectKorra staff is always looking for qualified people to join its team. Whether your passion lies in staying up late and writing lines of code, graphic design, video production, and helping administrate Minecraft servers, there’s a place for you on our team.
+The ProjectKorra team is always looking for qualified people to join its team. Whether your passion lies in staying up late and writing lines of code, graphic design, video production, or helping administrate Minecraft servers, there’s a place for you on our team.
 
 You can apply to join the team `on our website`_.
 

@@ -37,10 +37,12 @@ Elements
    Similar to Earthbenders, they employ both defensive and offensive
    strategies to accomplish this.
 
--  Chiblocking is the anti-bending fighting style. Chiblockers use critically
-   placed kicks and punches to block chi paths in bender's bodies, doing
-   anything from disabling their bending to temporarily paralyzing
-   them.
+-  Chi is the life energy that flows through everything. Humans, along
+   with some animals, learned how to control the chi inside them to
+   resonate with some element in the world, but even more powerful is
+   the ability to manipulate the chi itself. Chiblocking is a fighting
+   style which uses precises strikes to disrupt the flow of chi, disabling
+   someone's bending temporarily.
 
 `ProjectKorra API`_
 -------------------

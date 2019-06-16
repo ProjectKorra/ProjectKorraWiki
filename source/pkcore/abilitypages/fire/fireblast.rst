@@ -14,7 +14,6 @@ Left click on your FireBlast bind
 
 Config
 ======
-blah blah blah balance
 
 .. TODO: Put a code block here of the config
 

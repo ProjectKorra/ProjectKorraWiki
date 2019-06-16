@@ -14,7 +14,6 @@ Left Click on your AirSwipe bind
 
 Config
 ======
-blah blah blah balance
 
 .. TODO: Put a code block here of the config
 

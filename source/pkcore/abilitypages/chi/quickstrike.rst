@@ -15,7 +15,6 @@ Hit an entity while on your QuickStrike bind
 
 Config
 ======
-blah blah blah balance
 
 .. TODO: Put a code block here of the config
 
