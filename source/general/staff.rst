@@ -39,7 +39,7 @@ Developers
 
 |coolade| Coolade
 
-|finnbueno| 
+|finnbueno| Finn\_Bueno\_
 
 |jacklin213| jacklin213
 
@@ -105,9 +105,9 @@ Server Staff
 .. |jackson| image:: https://crafatar.com/renders/head/4454a74e-0297-4c8c-a95b-89ac1fc63e39?size=1
 .. |mahtaran| image:: https://crafatar.com/renders/head/4f61d6e6-e688-49cd-9356-2319271d1bef?size=1
 .. |mnesikos| image:: https://crafatar.com/renders/head/f4e7fb2b-b2f9-4ab6-96e7-b42e798561ce?size=1
-.. |coolade| image:: https://crafatar.com/renders/head/?size=1&default:MHF_Steve
+.. |coolade| image:: https://crafatar.com/renders/head/96f40c81-dd5d-46b6-9afe-365114d4a082?size=1
 .. |phanaticd| image:: https://crafatar.com/renders/head/ad48dc86-1c3b-47be-8993-eb48aeb47705?size=1
-.. |pickle9775| image:: https://crafatar.com/renders/head/?size=1&default:MHF_Steve
+.. |pickle9775| image:: https://crafatar.com/renders/head/1553482a-5e86-4270-9262-b57c11151074?size=1
 .. |plasmarob| image:: https://crafatar.com/renders/head/4f7cf9cd-ee04-4480-8ca0-7bca9b1db302?size=1
 .. |mist| image:: https://crafatar.com/renders/head/8621211e-283b-46f5-87bc-95a66d68880e?size=1
 .. |simp| image:: https://crafatar.com/renders/head/5031c4e3-8103-49ea-b531-0d6ae71bad69?size=1
