@@ -17,7 +17,7 @@ The following are all of ProjectKorra's available resources. Only resources list
 
 * Spigot
 
-  * `Core`_
+  * `ProjectKorra CORE <Core>`_ v1.8.8 
 
 * Forge
 
@@ -41,7 +41,7 @@ ProjectKorra runs off of the contributions of volunteers, however this doesn't j
 
 :ref:`FAQ <faq>`
 ==================
-Here you can find answers to common questions
+Here you can find answers to commonly asked questions!
 
 -----------------------
 How do I fix JedCore?
@@ -66,7 +66,7 @@ Staff
 =======
 This wiki is maintained by our wonderful digital team. If you have any inquiries feel free to reach out to them on our Discord!
 
-- More Info on our `team`_!
+- More Info on our :ref:`team <staff>`_!
 
 - More Info on becoming a :ref:`PK Staff Member <staff>`!
 
@@ -74,9 +74,9 @@ This wiki is maintained by our wonderful digital team. If you have any inquiries
 Useful Links
 ==============
 
-- Visit our `Website`_, where you can find our forums, downloads, and bug-report tickets.
+- Visit our `Website`_, where you can find our forums, downloads, and the most recent community bulletin.
 - Join our `Discord`_ server! There you can get help from developers, post suggestions, and chat with community members!
-- Follow our `Twitter`_!
+- Follow our `Twitter`_ for all the latest news!
 - Go to our `GitHub`_ to see all the latest developments and updates!
 
 	
