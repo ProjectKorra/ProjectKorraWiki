@@ -16,9 +16,9 @@ This wiki is a work in progress, if you notice any issue or error, you are welco
     :name: general
 
     Home <general/index>
-    FAQ <general/faq>
     Contributing to the Wiki <general/wikicontribute>
-
+    FAQ <general/faq>
+    general/staff
 
 .. toctree::
     :maxdepth: 1
