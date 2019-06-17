@@ -10,22 +10,22 @@ General
 What is ProjectKorra?
 -------------------------------
 
-ProjectKorra is an open source Spigot plugin, established by MistPhizzle in June 2014, based upon Orion's original *Minecraft: The Last Airbender* plugin for Bukkit. ProjectKorra's purpose is to bring the *Avatar: The Last Airbender* and *Avatar: The Legend of Korra* universes into Minecraft by recreating features seen in the show such as bending within Minecraft.
+ProjectKorra is an organization, established by MistPhizzle in June 2014, to update and maintain Orion's original *Minecraft: The Last Airbender* plugin for Bukkit. ProjectKorra's purpose is to bring the *Avatar: The Last Airbender* and *Avatar: The Legend of Korra* universes into Minecraft by recreating features seen in the show within Minecraft.
 
 Who runs ProjectKorra?
 ----------------------
 
-There is a volunteer staff team that helps maintain ProjectKorra: from developers and digital media people, to server admins and moderators! Despite the staff team however, ProjectKorra heavily relies on its community and would not be successful without it.
+There is a volunteer :ref: `staff team <staff>` that helps maintain ProjectKorra: from developers and digital designers, to server admins and moderators! Despite the staff team however, ProjectKorra heavily relies on its community and would not be successful without it.
 
 How can I get involved with ProjectKorra?
 -----------------------------------------
 
-Absolutely anyone can become involved with ProjectKorra. We have many departments that we would love for people to be involved in, such as Development, Moderation, Server Building, or Digital Team. `Apply here <https://projectkorra.com/join-the-team/>`_!
+Absolutely anyone can become involved with ProjectKorra. We have many departments that we would love for people to be involved in, such as Development, Moderation, Server Building, or Digital Team. :ref:`Click here to find our more <staff>`!
 
-What version does the current version support?
+Which version of Spigot does the current build support?
 ----------------------------------------------
 
-Our current build of ProjectKorra (CORE), **v1.8.7**, is compatible with **1.11.2 - 1.12.2** at the moment.
+Our current build of :ref:`ProjectKorra CORE <core>`, **v1.8.8**, is compatible with **1.13.2** at the moment.
 
 Where can I find development builds of this plugin?
 ---------------------------------------------------
@@ -37,9 +37,9 @@ You can click each plugin name to go to the latest builds: `ProjectKorra(CORE) <
 How can I report a bug?
 -----------------------
 
-We encourage all bugs, big and small, be reported in the proper bug report section of the forum. Please report all bugs `on our forums <https://projectkorra.com/forum/categories/help-and-support.91/>`_. If fixable, all bugs are fixed ASAP. As of ProjectKorra(CORE) v1.5.0, there is a debug feature built into the plugin. This will help us a ton when you submit a bug report if you include the debug.txt created when you use the /bending debug command in addition to a log of your console if it shows a visible error. Debug will help us by listing ProjectKorra plugins and dependencies so that we can isolate the source of the problem. This speeds up the bug fixing process A LOT.
+We encourage all bugs, big and small, be reported in the proper bug report section of the forum. Please report all bugs `on our forums <https://projectkorra.com/forum/categories/help-and-support.91/>`_. As of ProjectKorra(CORE) v1.5.0, there is a debug feature built into the plugin. It is very helpful when you submit a bug report if you include the debug.txt created when you use the /bending debug command aswell as a log of your console if it shows a visible error. Debug will help us by listing ProjectKorra plugins and dependencies so that we can isolate the source of the problem. This speeds up the bug fixing process A LOT.
 
 How can I suggest a feature?
 ----------------------------
 
-As said before, we wouldn't be here today if it weren't for the community, so we absolutely encourage members to suggest features! Suggestions do not have to be based off of something you had seen in the show, rather, they must remain practical. You can make suggestions by clicking `here <https://projectkorra.com/forum/forums/suggestions.8/>`_. Please ensure that your suggestion has not been suggested a million other times and it does not already exist.
+As said before, we wouldn't be here today if it weren't for the community, so we absolutely encourage members to suggest features! Suggestions do not have to be based off of something you had seen in the show, rather, they must remain practical. You can make suggestions by clicking `here <https://projectkorra.com/forum/forums/suggestions.8/>`_. Please ensure that your suggestion is not a duplicate of one already posted!
