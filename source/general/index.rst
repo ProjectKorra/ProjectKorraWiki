@@ -41,6 +41,7 @@ ProjectKorra runs off of the contributions of volunteers, however this doesn't j
 
 :ref:`FAQ <faq>`
 ==================
+Here you can find answers to common questions
 
 -----------------------
 How do I fix JedCore?
@@ -57,7 +58,9 @@ ProjectKorra isn't working as it should, how do I fix it?
 -----------------------------------------------------------
 The first thing you should do is make a bug report on our forums or GitHub. A developer will see it and try and help you resolve your issue. You can also send a message on our Discord and either a dev or a knowledgeable community member will come to assist you!
 
+----------------------------------------------------------------------------
 Can't find your question? Click here for even more :ref:`questions <faq>`!
+----------------------------------------------------------------------------
 
 Staff
 =======
