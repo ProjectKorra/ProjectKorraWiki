@@ -6,12 +6,18 @@ The ProjectKorra team is comprised of volunteers who work on various aspects of 
 
 Meet the Team
 =============
-
-
 +-----------------+-----------------+---------------+
-| Member          | Position        | Avatar Head   |
+| Member          | Position        | MC Avatar     |
 +-----------------+-----------------+---------------+
-| Mist            | Founder & Admin | |mist|        |
+| Mist            | Admin & Founder | |mist|        |
++-----------------+-----------------+---------------+
+
+Developers
+----------
+
+Developers are the people who maintain and work on the various
+development projects that require programming knowledge
+
 +-----------------+-----------------+---------------+
 | OmniCypher      | Project Lead    | |omnicypher|  |
 +-----------------+-----------------+---------------+
@@ -43,9 +49,25 @@ Meet the Team
 +-----------------+-----------------+---------------+
 | TheWaterChief   | Bug Tester      | |waterchief|  |
 +-----------------+-----------------+---------------+
+
+Moderators
+----------
+
+Moderators work on the forums and discord to keep them
+organized, civil, and spam-free.
+
++-----------------+-----------------+---------------+
 | Pickle9775      | Head Moderator  | |pickle|      |
 +-----------------+-----------------+---------------+
 | floory565       | Moderator       | |floory|      |
++-----------------+-----------------+---------------+
+
+Server Staff
+------------
+
+These lovely people work on maintaining and improving
+the official ProjectKorra server
+
 +-----------------+-----------------+---------------+
 | Hades909        | Server Admin    | |hades|       |
 +-----------------+-----------------+---------------+
@@ -53,9 +75,16 @@ Meet the Team
 +-----------------+-----------------+---------------+
 | AndDrew         | Server Builder  | |anddrew|     |
 +-----------------+-----------------+---------------+
-| Jacksonnn       | Digital Media   | |jackson|     |
+
+Digital Media
+-------------
+
+The digital media department works on maintaining this wiki,
+creating content for the ProjectKorra YouTube channel, and
+designing the website.
+
 +-----------------+-----------------+---------------+
-| xItzNiek        | Staff           | |itzniek|     |
+| Jacksonnn       | Wiki Editor     | |jackson|     |
 +-----------------+-----------------+---------------+
 
 
