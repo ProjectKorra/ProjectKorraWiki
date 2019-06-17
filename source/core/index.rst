@@ -2,7 +2,7 @@
 Core
 #######
 
-Introduction
+Background
 ==============
 ProjectKorra Core is an open source Spigot plugin, established by MistPhizzle
 in June 2014, based upon Orion's original *Minecraft: The Last
