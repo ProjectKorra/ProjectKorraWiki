@@ -4,7 +4,7 @@
 General
 #########
 
-Welcome to the ProjectKorra Wiki, here you can find information regarding everything ProjectKorra!
+Welcome to the general section of the ProjectKorra Wiki, here you can find information regarding everything ProjectKorra!
 
 Background
 ============
@@ -13,7 +13,7 @@ ProjectKorra is an organization, established by MistPhizzle in June 2014, to con
 
 Downloads
 ===========
-The following are all of ProjectKorra's available resources. Only things listed here are official ProjectKorra resources, but there are also community-made addons you can get on our `forums`_!*
+The following are all of ProjectKorra's available resources. Only resources listed here are official ProjectKorra resources, but there are also community-made addons you can get on our `forums`_!*
 
 * Spigot
 
