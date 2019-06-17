@@ -3,7 +3,7 @@ Core
 #######
 
 Background
-==============
+============
 ProjectKorra Core is an open source Spigot plugin, established by MistPhizzle
 in June 2014, based upon Orion's original *Minecraft: The Last
 Airbender* plugin for Bukkit. 
@@ -52,7 +52,7 @@ ProjectKorra Core supports custom abilities in our API, click here to find out a
 
 `ProjectKorra API`_
 =====================
-Developers can also use our nifty API to create addon abilities and side
+Developers can also use our extensive API to create addon abilities and side
 plugins that hook into ProjectKorra Core.
 
 .. _ProjectKorra Core: https://projectkorra.com/projectkorra-core/
