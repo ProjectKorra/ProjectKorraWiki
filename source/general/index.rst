@@ -66,7 +66,7 @@ Staff
 =======
 This wiki is maintained by our wonderful digital team. If you have any inquiries feel free to reach out to them on our Discord!
 
-- More Info on our :ref:`team <staff>`_!
+- More Info on our :ref:`team <staff>`!
 
 - More Info on becoming a :ref:`PK Staff Member <staff>`!
 

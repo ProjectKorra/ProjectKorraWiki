@@ -23,7 +23,7 @@ How can I get involved with ProjectKorra?
 Absolutely anyone can become involved with ProjectKorra. We have many departments that we would love for people to be involved in, such as Development, Moderation, Server Building, or Digital Team. :ref:`Click here to find our more <staff>`!
 
 Which version of Spigot does the current build support?
-----------------------------------------------
+-------------------------------------------------------
 
 Our current build of :ref:`ProjectKorra CORE <core>`, **v1.8.8**, is compatible with **1.13.2** at the moment.
 
