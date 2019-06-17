@@ -21,7 +21,7 @@ The following are all of ProjectKorra's available resources. Only things listed 
 
 * Forge
 
-  * `AM2: Out of the Iceberg`_
+  * `AM2: Out of the Iceberg <ATLA Mod>`_
 
 .. note:: PROJECTKORRA IS NOT RESPONSIBLE FOR ERRORS CAUSED BY NON PROJECTKORRA RESOURCES. RESOURCES DOWNLOADED FROM OUTSIDE OF THE PROJECTKORRA FORUMS ARE NOT INSPECTED BY PROJECTKORRA AND MAY CONTAIN MALICIOUS CODE.
 
