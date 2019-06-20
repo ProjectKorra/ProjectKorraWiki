@@ -15,9 +15,12 @@ Administrators
 --------
 Admins are responsible for the day to day operations of ProjectKorra.
 
-Admins
-^^^^^^^^
-|mist| MistPhizzle
++-----------------+-----------------+---------------+
+| Member          | Position        | MC Avatar     |
++-----------------+-----------------+---------------+
+| Mist            | Admin & Founder | |mist|        |
++-----------------+-----------------+---------------+
+
 
 Dev Team
 ----------
@@ -27,41 +30,57 @@ If you want to become a developer, click the link below to apply.
 
 `Join the Dev Team! <https://projectkorra.com/join-the-team/>`_
 
-Lead Developers
-^^^^^^^^^^^^^^^^^
-|omnicypher| OmniCypher
-
-|sobki| Sobki
++-----------------+-----------------+---------------+
+| OmniCypher      | Project Lead    | |omnicypher|  |
++-----------------+-----------------+---------------+
+| Sobki           | Lead Developer  | |sobki|       |
++-----------------+-----------------+---------------+
 
 Developers
 ^^^^^^^^^^^^
-|alexthecoder| AlexTheCoder
-
-|coolade| Coolade
-
-|finnbueno| Finn\_Bueno\_
-
-|jacklin213| jacklin213
-
-|phanaticd| PhanaticD
-
-|plasmarob| plasmarob
-
-|simp| Simplicitee
-
-|strangeone101| StrangeOne101
++-----------------+-----------------+---------------+
+| AlexTheCoder    | Developer       | |alexthecoder||
++-----------------+-----------------+---------------+
+| Coolade         | Developer       | |coolade|     |
++-----------------+-----------------+---------------+
+| Finn\_Bueno\_   | Developer       | |finnbueno|   |
++-----------------+-----------------+---------------+
+| Jacklin213      | Developer       | |jacklin213|  |
++-----------------+-----------------+---------------+
+| PhanaticD       | Developer       | |phanaticd|   |
++-----------------+-----------------+---------------+
+| plasmarob       | Developer       | |plasmarob|   |
++-----------------+-----------------+---------------+
+| StrangeOne101   | Developer       ||strangeone101||
++-----------------+-----------------+---------------+
 
 Junior Developers
 ^^^^^^^^^^^^^^^^^^^
-|varhagna| Varhagna
+Junior Developers are developers in training. They help out where they can and work on expanding their skills to eventually become developers
+
++-----------------+-----------------+---------------+
+| Varhagna        | Developer       | |varhagna|    |
++-----------------+-----------------+---------------+
 
 Mod Developers
 ^^^^^^^^^^^^^^^^
-|favouritedragon| FavouriteDragon
+Mod Developers work on the modded side of ProjectKorra. They are responsible for maintaining Avatar Mod 2: Out of the Iceberg, which you can find here.
 
-|mahtaran| Mahtaran
++-----------------+-----------------+---------------+
+| FavouriteDragon | Forge Developer | |favourite|   |
++-----------------+-----------------+---------------+
+| Mahtaran        | Forge Developer | |mahtaran|    |
++-----------------+-----------------+---------------+
+| Mnesikos        | Forge Developer | |mnesikos|    |
++-----------------+-----------------+---------------+
 
-|mnesikos| Mnesikos
+Bug Testers
+^^^^^^^^^^^^^
+Bug testers work on quality assurance. They are the ones who vigourously test ProjectKorra plugins to make sure they are usuable.
+
++-----------------+-----------------+---------------+
+| TheWaterChief   | Bug Tester      | |waterchief|  |
++-----------------+-----------------+---------------+
 
 
 Digital Team
@@ -74,7 +93,10 @@ If you want to join the digital team, click the link below to apply
 
 Wiki Maintainers
 ^^^^^^^^^^^^^^^^^^^
-|jackson| Jacksonn
+
++-----------------+-----------------+---------------+
+| Jacksonnn       | Wiki Editor     | |jackson|     |
++-----------------+-----------------+---------------+
 
 Server Team
 -------------
@@ -82,19 +104,26 @@ The Server Team gives players a unique ProjectKorra experience. Their main respo
 
 Server Admins
 ^^^^^^^^^^^^^^
-|hades| Hades
 
-|aether| Aether
++-----------------+-----------------+---------------+
+| Hades909        | Server Admin    | |hades|       |
++-----------------+-----------------+---------------+
+| Aether          | Server Admin    | |aether|      |
++-----------------+-----------------+---------------+
 
-Server Staff
+Builders
 ^^^^^^^^^^^^^^
-|anddrew| anddrew
+Builders are responsible for constructing our servers arenas and beautiful maps.
+
++-----------------+-----------------+---------------+
+| AndDrew         | Server Builder  | |anddrew|     |
++-----------------+-----------------+---------------+
 
 .. |aether| image:: https://crafatar.com/renders/head/7aa346d3-5ef4-429f-bc54-ced51418f3eb?size=1&overlay
 .. |anddrew| image:: https://crafatar.com/renders/head/0d90c254-2c5b-41d1-8827-e90f5f9c040f?size=1&overlay
 .. |alexthecoder| image:: https://crafatar.com/renders/head/a47a4d04-9f51-44ba-9d35-8de6053e9289?size=1&overlay
 .. |coolade| image:: https://crafatar.com/renders/head/96f40c81-dd5d-46b6-9afe-365114d4a082?size=1&overlay
-.. |favouritedragon| image:: https://crafatar.com/renders/head/01535a73-ff8d-4d6c-851e-c71f89e936aa?size=1&overlay
+.. |favourite| image:: https://crafatar.com/renders/head/01535a73-ff8d-4d6c-851e-c71f89e936aa?size=1&overlay
 .. |finnbueno| image:: https://crafatar.com/renders/head/7bb267eb-cf0b-4fb9-a697-27c2a913ed92?size=1&overlay
 .. |floory565| image:: https://crafatar.com/renders/head/a0957f51-94ed-44f9-94da-cc50c3fb66e0?size=1&overlay
 .. |hades| image:: https://crafatar.com/renders/head/f8ced1f2-83cf-4525-94e9-7887a811143e?size=1&overlay
