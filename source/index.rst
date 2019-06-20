@@ -15,9 +15,9 @@ This wiki is a work in progress, if you notice any issue or error, you are welco
     :caption: General
     :name: general
 
-    About <general/index>
+    About ProjectKorra <general/index>
     Contributing to the Wiki <general/wikicontribute>
-	Downloads <general/download>
+    Downloads <general/download>
     FAQ <general/faq>
     general/staff
 
@@ -26,7 +26,8 @@ This wiki is a work in progress, if you notice any issue or error, you are welco
     :caption: Core
     :name: core
     
-    About <core/index>
+    About Core <core/index>
     Commands and Permissions <core/commands>
+    
     
 .. _GitHub: https://github.com/ProjectKorra/ProjectKorraWiki/issues
