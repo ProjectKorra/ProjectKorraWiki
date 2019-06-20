@@ -1,3 +1,4 @@
+.. _download:
 ###########
 Downloads
 ###########
@@ -18,6 +19,6 @@ Forge
 =====
 - `Avatar Mod 2`_: Out of the Iceberg
 
-.. _ProjectKorra Core plugin: https://projectkorra.com/forum/resources/projectkorra-core.1/
+.. _ProjectKorra Core: https://projectkorra.com/forum/resources/projectkorra-core.1/
 .. _Avatar Mod 2: https://projectkorra.com/forum/resources/avatar-mod-2-out-of-the-iceberg.326/
 .. _on our website: https://projectkorra.com/forum/resources/
