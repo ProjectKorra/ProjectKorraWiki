@@ -6,13 +6,15 @@ ProjectKorra Staff
 
 This page contains information regarding current staff members, applying for a position, and the general responsibilities of each staff member. 
 
-If you are interested in joining the team, click `here <https://projectkorra.com/join-the-team/>`_ to apply.
+Join The Team
+===============
+If you are interested in joining the team, click `here <https://projectkorra.com/join-the-team/>`_ to apply. Read below for a general idea of the various responsibilities of our staff teams.
 
 Members
 =========
 
 Administrators
---------
+----------------
 Admins are responsible for the day to day operations of ProjectKorra.
 
 +-----------------+-----------------+---------------+
