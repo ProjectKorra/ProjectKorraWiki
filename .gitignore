@@ -1,3 +1,4 @@
 # Sphinx build files
 build/
 *.rst~
+*.zip
