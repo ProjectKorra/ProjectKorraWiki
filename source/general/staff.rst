@@ -139,6 +139,6 @@ Builders are responsible for constructing our servers arenas and beautiful maps.
 .. |simp| image:: https://crafatar.com/renders/head/5031c4e3-8103-49ea-b531-0d6ae71bad69?size=1&overlay
 .. |sobki| image:: https://crafatar.com/renders/head/dd578a4f-d35e-4fed-94db-9d5a627ff962?size=1&overlay
 .. |strangeone101| image:: https://crafatar.com/renders/head/d7757be8-86de-4898-ab4f-2b1b2fbc3dfa?size=1&overlay
-.. |thewaterchief| image:: https://crafatar.com/renders/head/be9dd246-dd2e-491b-93ee-0caf2786bf65?size=1&overlay
+.. |waterchief| image:: https://crafatar.com/renders/head/be9dd246-dd2e-491b-93ee-0caf2786bf65?size=1&overlay
 .. |varhagna| image:: https://crafatar.com/renders/head/592fb564-701a-4a5e-9d65-13f7ed0acf59?size=1&overlay
 .. |xitzniek| image:: https://crafatar.com/renders/head/02d35def-51df-456a-b1bf-530c442695cb?size=1&overlay
