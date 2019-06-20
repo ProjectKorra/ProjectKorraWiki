@@ -11,21 +11,22 @@ This wiki is a work in progress, if you notice any issue or error, you are welco
 
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: General
     :name: general
 
-    Home <general/index>
+    About <general/index>
     Contributing to the Wiki <general/wikicontribute>
+	Downloads <general/download>
     FAQ <general/faq>
     general/staff
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Core
     :name: core
     
-    Home <core/index>
+    About <core/index>
     Commands and Permissions <core/commands>
     
 .. _GitHub: https://github.com/ProjectKorra/ProjectKorraWiki/issues
