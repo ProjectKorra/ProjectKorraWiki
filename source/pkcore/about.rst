@@ -9,15 +9,16 @@ in June 2014, based upon Orion's original *Minecraft: The Last
 Airbender* plugin for Bukkit. ProjectKorra's purpose is to bring the
 *Avatar: The Last Airbender* and *Avatar: The Legend of Korra* universe
 into Minecraft, allowing players to choose between the skills shown in
-the show: Fire, Air, Water, Earth, and Chiblocking.
+the show: Firebending, Airbending, Waterbending, Earthbending, or Chiblocking.
 
 Features
 ========
 
 `ProjectKorra Core`_ is a plugin based off of the bending universe, thus
-so there must be bending! Players can choose from 5 skills: Fire, Air,
-Water, Earth, and Chiblocking. Each element has its own respective playstyle, so
-it's up to the player to find the one that suits them the most.
+so there must be bending! As stated above, players can choose from 5 skills:
+Firebending, Airbending, Waterbending, Earthbending, or Chiblocking. Each
+of the skills has its own playstyle, so it's up to the player to find the
+one that suits them.
 
 Elements
 --------
