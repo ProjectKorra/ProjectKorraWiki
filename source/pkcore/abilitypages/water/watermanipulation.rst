@@ -1,3 +1,5 @@
+.. _watermanipulation:
+
 =================
 WaterManipulation
 =================

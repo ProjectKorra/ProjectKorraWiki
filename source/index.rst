@@ -24,3 +24,4 @@
    pkcore/about
    pkcore/commands
    pkcore/abilities
+   pkcore/faq

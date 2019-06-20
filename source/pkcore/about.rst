@@ -1,3 +1,5 @@
+.. _coreabout:
+
 ==========
 About Core
 ==========
@@ -40,9 +42,10 @@ Elements
 -  Chi is the life energy that flows through everything. Humans, along
    with some animals, learned how to control the chi inside them to
    resonate with some element in the world, but even more powerful is
-   the ability to manipulate the chi itself. Chiblocking is a fighting
-   style which uses precises strikes to disrupt the flow of chi, disabling
-   someone's bending temporarily.
+   the ability to manipulate the chi itself.
+
+   +  Chiblocking is a fighting style which uses precises strikes to
+      disrupt the flow of chi, disabling someone's bending temporarily.
 
 `ProjectKorra API`_
 -------------------

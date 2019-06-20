@@ -6,13 +6,13 @@ ProjectKorra Official Wiki
     :target: https://projectkorrawiki.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-Welcome to ProjectKorraWiki, the official information source for the minecraft plugin `ProjectKorra <https://projectkorra.com>`_.
+Welcome to the ProjectKorra Wiki, the official source of information for all things relating to `ProjectKorra <https://projectkorra.com>`_.
 
 Contributing
 ============
 
-ProjectKorra wiki is written in `reStructuredText (rst) <https://en.wikipedia.org/wiki/ReStructuredText>`_ format.  
+ProjectKorraWiki is written in `reStructuredText (rst) <https://en.wikipedia.org/wiki/ReStructuredText>`_ format.
 
-If you want to help out with the wiki and are unfamilar with (rst), check out `this <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_ guide first.
+If you want to help out with the wiki and are unfamilar with rst, check out `this guide <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_ first.
 
-We use `Sphinx <http://www.sphinx-doc.org/en/master/>`_ to compile the rst files to make the html files. Sphinx requires an installation of `python <https://www.python.org/downloads/>`_ but rest assured no python knowledge is required.
+We use `Sphinx <http://www.sphinx-doc.org/en/master/>`_ to build html files from the rst files. Sphinx requires an installation of `Python <https://www.python.org/downloads/>`_, but rest assured no Python knowledge is required.
