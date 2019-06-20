@@ -75,6 +75,7 @@ Useful Links
 .. _Core: https://projectkorra.com/downloads/
 .. _ATLA Mod: https://projectkorra.com/downloads/
 .. _team: https://projectkorra.com/team/
+.. _staff member: https://projectkorra.com/forum/categories/help-and-support.91/
 .. _Website: https://projectkorra.com
 .. _Discord: https://discordapp.com/invite/pPJe5p3
 .. _Twitter: https://twitter.com/projectkorra?lang=en
