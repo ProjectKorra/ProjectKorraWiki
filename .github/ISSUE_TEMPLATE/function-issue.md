@@ -2,8 +2,8 @@
 name: Function Issue
 about: Report issues related to operating the wiki (i.e broken links, absent pictures,
   etc)
-title: "[BUG]"
-labels: ''
+title: ''
+labels: function-issue
 assignees: ''
 
 ---
