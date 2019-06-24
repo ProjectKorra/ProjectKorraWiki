@@ -1,8 +1,8 @@
 ======================
 Elements and Abilities
 ======================
-Each of the elements and chiblocking have various abilities which
-can be used for combat, exploration, and resource gathering.
+Elements contain abilities which the player can use to aid themself. 
+Below are outlines of each element and the abilities they contain.
 
 Airbending
 ==========
@@ -10,8 +10,7 @@ Air is the element of freedom. Airbenders are quick, agile, and
 passive in nature, preferring to bob and weave through flurries of
 attacks, and defending if they have no other option.
 
-Airbending abilities tend to focus on movement and speed, but also
-have a variety of combat techniques.
+Airbending abilities focus on movement and speed.
 
 .. toctree::
     :name: airtree
@@ -25,8 +24,7 @@ Earth is the element of substance. Earthbenders stay rooted to the
 ground, preferring to face opponents head-on, using a mix of
 defensive and offensive strategies to crush their foes.
 
-Earthbending abilities focus on strengthening and defending oneself
-while remaining on the ground when possible.
+Earthbending abilities focus on strengthening and defending oneself.
 
 .. toctree::
     :name: earthtree
@@ -38,9 +36,9 @@ Firebending
 ===========
 Fire is the element of power. Firebenders are very aggressive and
 powerful, choosing to overwhelm their opponents with an endless
-onslaught of offensive attacks instead of being defensive.
+onslaught of offensive attacks.
 
-Firebending abilities focus on overwhelming combat potential and survival.
+Firebending abilities focus on combat capability and destroying obstacles.
 
 .. toctree::
     :name: firetree
@@ -52,10 +50,9 @@ Waterbending
 ============
 Water is the element of change. Waterbenders use their plethora of
 skills to redirect and manipulate opponents attacks against them.
-Similar to Earthbenders, they employ both defensive and offensive
-strategies to accomplish this.
 
-Waterbending abilities focus on being able to adapt between offense, defense, and mobility.
+
+Waterbending abilities focus on shifting between offense and defense.
 
 .. toctree::
     :name: watertree
@@ -66,11 +63,9 @@ Waterbending abilities focus on being able to adapt between offense, defense, an
 Chiblocking
 ===========
 Chiblocking is the anti-bending fighting style. Chiblockers use critically
-placed kicks and punches to block chi paths in bender's bodies, doing
-anything from disabling their bending to temporarily paralyzing
-them.
+placed kicks and punches to block chi paths in bender's bodies disabling their bending.
 
-Chiblocking abilities are purely for combat, being able to temporarily block a bender's chi so they are unable to bend.
+Chiblocking abilities focus on countering bending abilities.
 
 .. toctree::
     :name: chitree
