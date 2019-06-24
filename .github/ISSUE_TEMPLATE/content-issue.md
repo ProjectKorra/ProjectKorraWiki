@@ -1,8 +1,8 @@
 ---
 name: Content Issue
 about: Report issues related to the content of the wiki
-title: "[CONTENT]"
-labels: ''
+title: ''
+labels: content-issue
 assignees: ''
 
 ---
