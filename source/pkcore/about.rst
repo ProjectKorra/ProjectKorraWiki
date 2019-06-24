@@ -1,20 +1,27 @@
-What is ProjectKorra?
-~~~~~~~~~~~~~~~~~~~~~
+.. _coreabout:
 
-ProjectKorra is an open source Spigot plugin, established by MistPhizzle
+==========
+About Core
+==========
+
+ProjectKorra Core is an open source Spigot plugin, established by MistPhizzle
 in June 2014, based upon Orion's original *Minecraft: The Last
 Airbender* plugin for Bukkit. ProjectKorra's purpose is to bring the
-*Avatar: The Last Airbender* and *Avatar: The Legend of Korra* universes
+*Avatar: The Last Airbender* and *Avatar: The Legend of Korra* universe
 into Minecraft, allowing players to choose between the skills shown in
-the show: Fire, Air, Water, Earth, and Chi.
+the show: Firebending, Airbending, Waterbending, Earthbending, or Chiblocking.
 
 Features
-~~~~~~~~
+========
 
 `ProjectKorra Core`_ is a plugin based off of the bending universe, thus
-so there must be bending! Players can choose from 5 skills: Fire, Air,
-Water, Earth, and Chi. Each element has its own respective playstyle, so
-it's up to the player to find the one that suits them the most.
+so there must be bending! As stated above, players can choose from 5 skills:
+Firebending, Airbending, Waterbending, Earthbending, or Chiblocking. Each
+of the skills has its own playstyle, so it's up to the player to find the
+one that suits them.
+
+Elements
+--------
 
 -  Air is the element of freedom. Airbenders are quick, agile, and
    passive in nature, preferring to bob and weave through flurries of
@@ -33,16 +40,20 @@ it's up to the player to find the one that suits them the most.
    Similar to Earthbenders, they employ both defensive and offensive
    strategies to accomplish this.
 
--  Chi is the anti-bending fighting style. Chiblockers use critically
-   placed kicks and punches to block chi paths in bender's bodies, doing
-   anything from preventing them from bending to temporarily paralyzing
-   them.
+-  Chi is the life energy that flows through everything. Humans, along
+   with some animals, learned how to control the chi inside them to
+   resonate with some element in the world, but even more powerful is
+   the ability to manipulate the chi itself.
+
+   +  Chiblocking is a fighting style which uses precises strikes to
+      disrupt the flow of chi, disabling someone's bending temporarily.
 
 `ProjectKorra API`_
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
-Developers can also use our nifty API to create addon abilities and side
+Developers can also use our extensive API to create addon abilities and side
 plugins that hook into ProjectKorra Core.
+
 
 .. _ProjectKorra Core: https://github.com/ProjectKorra/ProjectKorra/wiki/ProjectKorra-Core
 .. _ProjectKorra API: http://projectkorra.com/docs/
