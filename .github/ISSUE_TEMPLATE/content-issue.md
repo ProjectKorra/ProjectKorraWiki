@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the issue**
-A clear and concise description of what the bug is.
+Include a copy of the text as found on the wiki and provide an explanation as to why you deem it an issue.
 
 **Location of issue**
 List the title of the page and section in which the issue is found.
