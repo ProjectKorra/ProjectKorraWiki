@@ -16,7 +16,7 @@ There are tons of addons and side plugins that community members have made, all 
 
 Forge
 =====
-- `Avatar Mod 2`_: Out of the Iceberg
+- `Avatar Mod 2`_: Out of the Iceberg (alpha 1.5.17 for MC Forge 1.12 ONLY)
 
 .. _ProjectKorra Core plugin: https://projectkorra.com/forum/resources/projectkorra-core.1/
 .. _Avatar Mod 2: https://projectkorra.com/forum/resources/avatar-mod-2-out-of-the-iceberg.326/
