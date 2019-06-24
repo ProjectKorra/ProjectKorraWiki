@@ -4,8 +4,8 @@
 About Core
 ==========
 
-ProjectKorra Core is an open source Spigot plugin, established by MistPhizzle
-in June 2014, based upon Orion's original *Minecraft: The Last
+ProjectKorra Core is an open source Spigot plugin, created by MistPhizzle
+in June 2014, based on Orion's original *Minecraft: The Last
 Airbender* plugin for Bukkit. ProjectKorra's purpose is to bring the
 *Avatar: The Last Airbender* and *Avatar: The Legend of Korra* universe
 into Minecraft, allowing players to choose between the skills shown in
@@ -16,8 +16,7 @@ Features
 
 `ProjectKorra Core`_ is a plugin based off of the bending universe, thus
 so there must be bending! As stated above, players can choose from 5 skills:
-Firebending, Airbending, Waterbending, Earthbending, or Chiblocking. Each
-of the skills has its own playstyle, so it's up to the player to find the
+Fire, Air, Water, Earth, or Chi. Each of the skills has its own playstyle, so it's up to the player to find the
 one that suits them.
 
 Elements
@@ -40,13 +39,8 @@ Elements
    Similar to Earthbenders, they employ both defensive and offensive
    strategies to accomplish this.
 
--  Chi is the life energy that flows through everything. Humans, along
-   with some animals, learned how to control the chi inside them to
-   resonate with some element in the world, but even more powerful is
-   the ability to manipulate the chi itself.
-
-   +  Chiblocking is a fighting style which uses precises strikes to
-      disrupt the flow of chi, disabling someone's bending temporarily.
+-  Chi is the anti-bending fighting style. Chiblockers use well placed blows to 
+   temporarily disable their opponents bending, leaving them virtually defenseless.
 
 `ProjectKorra API`_
 -------------------
