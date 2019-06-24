@@ -2,7 +2,7 @@
 Commands and Permissions
 ========================
 
-This page contains all of the commands and permissions in ProjectKorra (Core).
+This page contains all of the commands and permissions in ProjectKorra Core.
 
 .. note:: Last updated for v1.8.8
 
@@ -11,11 +11,11 @@ Commands
 The base command for the ProjectKorra plugin is ``/projectkorra``. Aliases for this
 command are ``/bending, /b, /bend, /tla, /mtla, /korra,  /pk``.
 
-.. tip:: the ``/projectkorra`` command is more commonly known as ``/bending``
+.. tip:: the ``/projectkorra`` command is more commonly known as ``/bending`` and will be referred below by that alias.
 
 +++++
 
-.. note:: Commands are all actually subcommands of ``/bending``, where one would
+.. note:: All commands are actually subcommands of ``/bending``, where one would
           do /bending <subcommand> to perform a function. (i.e /bending help)
 
 | Argument Syntax
@@ -206,7 +206,7 @@ the command on them again.
 
 Preset
 ------
-| Usage: ``/bending preset [list / create / delete / bind] [name]``
+| Usage: ``/bending preset [list / create / delete / bind] [name] [player]``
 | Aliases: ``[p, pre, set, presets]``
 
 Base preset command, allows for creating, deleting, or binding a preset
@@ -253,10 +253,10 @@ Reloads ProjectKorra Core and all side plugins.
 
 Remove
 ------
-| Usage: ``/bending remove <player>``
+| Usage: ``/bending remove <player> [element]``
 | Aliases: ``[rm]``
 
-Removes all of the elements <player> has.
+Removes all of the elements from the <player> or solely [element].
 
 +-------------------------------------------------------------------------------------------------+
 | Permissions                                                                                     |
@@ -314,7 +314,7 @@ Version
 | Usage: ``/bending version``
 | Aliases: ``[v]``
 
-Displays the version of the core plugin.
+Displays the version of the ProjectKorra Core jar installed on the server.
 
 +-------------------------------------------------------------------------------------------------+
 | Permissions                                                                                     |
@@ -329,8 +329,7 @@ Who
 | Usage: ``/bending who [player]``
 | Aliases: ``[w]``
 
-Displays bending info about the given player, or lists all online
-players and their elements.
+Displays detailed bending info about the given player, or lists all online players and their elements.
 
 +-------------------------------------------------------------------------------------------------+
 | Permissions                                                                                     |
@@ -342,13 +341,13 @@ players and their elements.
 
 Permissions
 ===========
-The following table represents all other permissions in ProjectKorra.
+The following table represents all other permissions in ProjectKorra Core.
 
-To give or take permissions you can either define them in your permissions.yml or use a plugin like PermissionsEx or GroupManager. These will allow you to remove or give the following permissions nodes to your players.
+To give or take permissions you can either define them in your permissions.yml or use a permissions plugin (i.e PermissionsEx or GroupManager).
 
-Permissions marked default are available to everyone in the absence of a permissions plugin and op is available to opped players.
+In the absence of a permissions plugin, permissions marked ``default`` will be available to everyone whereas permissions designated as ``op`` will only be available to operators.
 
-.. note:: Certain abilities (namely Bloodbending and AvatarState) can only be used by opped players by default
+.. note:: Certain abilities and subelements (namely Bloodbending and AvatarState) can only be used by opped players by default.
 
 +--------------------------------+------------------------------------------------+---------+
 | Permission                     | Description                                    | Default |
