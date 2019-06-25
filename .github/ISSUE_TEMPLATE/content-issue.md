@@ -9,16 +9,16 @@ assignees: ''
 
 **Describe the issue**
 
-Include a copy of the text as found on the wiki and provide an explanation as to why you deem it an issue.
+Include a copy of the material as found on the wiki and explain the issue.
 
 **Location of issue**
 
-List the title of the page and section in which the issue is found.
+List the titles of any pages and sections in which the issue can be found.
 
 **Screenshots**
 
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain the issue.
 
 **Additional context**
 
-Add any other context about the problem here.
+Add any other context regarding the issue here.
