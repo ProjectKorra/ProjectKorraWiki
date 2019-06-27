@@ -9,16 +9,10 @@ assignees: ''
 
 **Please comment your concern**
 
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+A clear and concise description of what the issue is. 
 
-**Describe the solution you'd like**
+**Please list examples**
 
-A clear and concise description of what you want to happen.
+Examples of where the issue occurs. (ex. titles of specific pages and sections)
 
-**Describe alternatives you've considered**
 
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-
-Add any other context or screenshots about the feature request here.
