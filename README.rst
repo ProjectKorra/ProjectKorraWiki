@@ -3,7 +3,7 @@ ProjectKorra Official Wiki
 ==========================
 
 .. image:: https://readthedocs.org/projects/projectkorrawiki/badge/?version=latest
-    :target: https://wiki.projectkorra.com/en/latest/
+    :target: https://wiki.projectkorra.com
     :alt: Documentation Status
 
 Welcome to the ProjectKorra Wiki, the official source of information for all things relating to `ProjectKorra <https://projectkorra.com>`_.
