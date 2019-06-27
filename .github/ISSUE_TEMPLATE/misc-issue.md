@@ -9,10 +9,14 @@ assignees: ''
 
 **Please comment your concern**
 
-A clear and concise description of what the issue is. 
+Include a clear and concise description of what the issue is. 
 
-**Please list examples**
+**Include examples**
 
 Examples of where the issue occurs. (ex. titles of specific pages and sections)
+
+**Additional context/Proposed solution**
+
+Add any other context regarding the issue here or propose a solution.
 
 
