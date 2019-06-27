@@ -30,13 +30,10 @@ Include a clear and concise description of what you expected to happen.
 
 **Screenshots**
 
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain your issue.
 
 **Browser Information:(Please complete the following)**
 
  - OS: [e.g. iOS]
  - Browser: [e.g. chrome, safari]
  - Version: [e.g. 22]
-
-
-
