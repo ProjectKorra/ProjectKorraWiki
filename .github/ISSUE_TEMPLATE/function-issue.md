@@ -1,6 +1,6 @@
 ---
 name: Function Issue
-about: Report issues related to operating the wiki (i.e broken links, absent pictures,
+about: Report issues related to using the wiki (i.e broken links, absent pictures,
   etc)
 title: ''
 labels: function-issue
