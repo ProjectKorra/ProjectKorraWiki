@@ -1,17 +1,17 @@
-Use the following template. Feel free to remove any unused sections.
+_Use the following template. Feel free to remove any unused sections._
 
 ## FILE 1 TITLE 
 
 ### Section A
 * Change 1
-> * Link to GitHub Issue(s) / Trello Card(s) if applicable.
+> * Links to any applicable GitHub Issues or Trello Cards
 
 ### Section B
 * Change 2
-> * Link to GitHub Issue(s) / Trello Card(s) if applicable.
+> * Links to any applicable GitHub Issues or Trello Cards
 
 ## FILE 2 TITLE
 
 ### Section A
 * Change 3
-> * Link to GitHub Issue(s) / Trello Card(s) if applicable.
+> * Links to any applicable GitHub Issues or Trello Cards
