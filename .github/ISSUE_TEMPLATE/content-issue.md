@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the issue**
+**Describe the content issue**
 
 Include a copy of the material as found on the wiki and explain the issue.
 
