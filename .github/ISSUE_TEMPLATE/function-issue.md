@@ -8,17 +8,17 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the functional issue**
 
-A clear and concise description of what the bug is.
+Include a clear and concise description of what the bug is.
 
 **Location of the issue**
 
-List the title of the page and section in which the issue is found.
+List any page titles and sections where the issue can be found.
 
-**To Reproduce**
+**Steps to Reproduce**
 
-Steps to reproduce the behavior:
+Steps to reproduce the issue:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -26,7 +26,7 @@ Steps to reproduce the behavior:
 
 **Expected behavior**
 
-A clear and concise description of what you expected to happen.
+Include a clear and concise description of what you expected to happen.
 
 **Screenshots**
 
@@ -35,8 +35,8 @@ If applicable, add screenshots to help explain your problem.
 **Browser Information:(Please complete the following)**
 
  - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - Browser: [e.g. chrome, safari]
+ - Version: [e.g. 22]
 
 
 
