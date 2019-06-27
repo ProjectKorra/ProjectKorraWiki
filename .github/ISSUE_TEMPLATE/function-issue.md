@@ -32,7 +32,7 @@ Include a clear and concise description of what you expected to happen.
 
 If applicable, add screenshots to help explain your issue.
 
-**Browser Information:(Please complete the following)**
+**Browser Information: _(Please complete the following)_**
 
  - OS: [e.g. iOS]
  - Browser: [e.g. chrome, safari]
