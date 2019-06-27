@@ -11,7 +11,7 @@ assignees: ''
 
 Include a copy of the material as found on the wiki and explain the issue.
 
-**Location of issue**
+**Location of the issue**
 
 List the titles of any pages and sections in which the issue can be found.
 
