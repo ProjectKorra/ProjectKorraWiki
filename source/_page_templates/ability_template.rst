@@ -11,7 +11,6 @@ Paste description here. Insert gif here |ABILNAMEHERE1|
 
 Usage
 #####
-Below are the steps to use this ability
 
 Insert in-game gif here (add another substition)
 
@@ -23,7 +22,7 @@ Function 2: [] then [] then []
 
 
 
-.. note:: Practice makes perfect!
+.. note:: Insert Tips here (i.e Practice makes perfect!)
 
 
 Permissions
