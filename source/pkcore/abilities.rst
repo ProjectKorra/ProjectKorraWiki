@@ -1,7 +1,7 @@
 ======================
 Elements and Abilities
 ======================
-Each element contains a variety of abilities that the player can use to aid their survival.
+Each element has a variety of abilities that can be used for combat, exploration, and gathering resources.
 Below are outlines of each element and the abilities they contain.
 
 Airbending
@@ -52,7 +52,7 @@ Water is the element of change. Waterbenders use their plethora of
 skills to redirect and manipulate opponents attacks against them.
 
 
-Waterbending abilities focus on rapidly shifting between mobility, offense and defense.
+Waterbending abilities focus on rapidly shifting between mobility, offense, and defense.
 
 .. toctree::
     :name: watertree
@@ -65,7 +65,7 @@ Chiblocking
 Chiblocking is the anti-bending fighting style. Chiblockers use critically
 placed kicks and punches to block chi paths in bender's bodies disabling their bending.
 
-Chiblocking abilities focus on close quarters combat countering bending abilities.
+Chiblocking abilities focus on close quarters combat and countering bending abilities.
 
 .. toctree::
     :name: chitree
