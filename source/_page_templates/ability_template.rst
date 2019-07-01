@@ -6,23 +6,24 @@ ABILITY NAME
 Description
 ###########
 
+Include element/subelement
 Paste description here. Insert gif here |ABILNAMEHERE1|
 
 
 Usage
 #####
 
-Insert in-game gif here (add another substition)
+Insert in-game usage gif here (add another substition)
 
 Function 1: [] then [] then []
 
-Insert in-game gif here (add another substition)
+Insert in-game usage gif here (add another substition)
 
 Function 2: [] then [] then []
 
 
 
-.. note:: Insert Tips here (i.e Practice makes perfect!)
+.. tip:: Insert Tips here (i.e Practice makes perfect!)
 
 
 Permissions
