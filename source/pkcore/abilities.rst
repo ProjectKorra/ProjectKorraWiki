@@ -1,7 +1,7 @@
 ======================
 Elements and Abilities
 ======================
-Elements contain abilities which the player can use to aid themself. 
+Each element contains a variety of abilities that the player can use to aid their survival.
 Below are outlines of each element and the abilities they contain.
 
 Airbending
@@ -10,7 +10,7 @@ Air is the element of freedom. Airbenders are quick, agile, and
 passive in nature, preferring to bob and weave through flurries of
 attacks, and defending if they have no other option.
 
-Airbending abilities focus on movement and speed.
+Airbending abilities focus on mobility and evasiveness, limiting their combat potential.
 
 .. toctree::
     :name: airtree
@@ -38,7 +38,7 @@ Fire is the element of power. Firebenders are very aggressive and
 powerful, choosing to overwhelm their opponents with an endless
 onslaught of offensive attacks.
 
-Firebending abilities focus on combat capability and destroying obstacles.
+Firebending abilities focus on boosting combat potential and destroying obstacles.
 
 .. toctree::
     :name: firetree
@@ -52,7 +52,7 @@ Water is the element of change. Waterbenders use their plethora of
 skills to redirect and manipulate opponents attacks against them.
 
 
-Waterbending abilities focus on shifting between offense and defense.
+Waterbending abilities focus on rapidly shifting between mobility, offense and defense.
 
 .. toctree::
     :name: watertree
@@ -65,7 +65,7 @@ Chiblocking
 Chiblocking is the anti-bending fighting style. Chiblockers use critically
 placed kicks and punches to block chi paths in bender's bodies disabling their bending.
 
-Chiblocking abilities focus on countering bending abilities.
+Chiblocking abilities focus on close quarters combat countering bending abilities.
 
 .. toctree::
     :name: chitree
