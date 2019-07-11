@@ -1,2 +1,11 @@
-# Sphinx build files
+#######################
+## Sphinx build files
+#######################
 build/
+
+##########
+## jEdit
+##########
+*.rst~
+*.py~
+*.md~
