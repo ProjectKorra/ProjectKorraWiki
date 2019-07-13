@@ -4,12 +4,12 @@
 Contributing to the Wiki
 ========================
 
-Setting up the environment
+Setting Up the Environment
 ==========================
 
-To begin editing the Wiki we first need to up our environment. `Python`_ is the only dependency required.
+To begin editing the Wiki, you first need to your environment. `Python`_ is the only dependency required.
 
-.. note:: When installing Python make sure too tick the ``Add Python to PATH`` option to be able to use python within your terminal/command prompt
+.. note:: When installing Python make sure to tick the ``Add Python to PATH`` option to be able to use python within your terminal/command prompt
 
 
 1. Fork the GitHub repository and clone it.
@@ -29,13 +29,13 @@ Navigate to the directory you cloned the project to, then it will install all th
 
 This should install both Sphinx as well as the theme.
 
-To check that Sphinx is correctly installed run:
+To check that Sphinx is correctly installed, run:
 
 .. code:: bash
 
     sphinx-build -version
 
-If Sphinx has been installed correctly it should output sphinx-build and the version number For example ``sphinx-build 1.7.5``
+If Sphinx has been installed correctly, it should output sphinx-build and the version number For example ``sphinx-build 1.7.5``
 
 Sphinx is required to view your changes locally before submitting them.
 
