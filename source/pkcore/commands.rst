@@ -347,7 +347,7 @@ To give or take permissions you can either define them in your permissions.yml o
 
 In the absence of a permissions plugin, permissions marked ``default`` will be available to everyone whereas permissions designated as ``op`` will only be available to operators.
 
-.. note:: Certain abilities and subelements (namely Bloodbending and AvatarState) can only be used by opped players by default.
+.. note:: Certain abilities and subelements (namely AvatarState, Bloodbending, and Flight) can only be used by opped players by default.
 
 +--------------------------------+------------------------------------------------+---------+
 | Permission                     | Description                                    | Default |
