@@ -62,7 +62,7 @@ Remember to compare across forks as shown in the screenshot below
 
 .. image:: /_static/images/contributing_pr_1.png
 
-Once you are ready and content with your changes hit the *Create pull request* button.
+Once you are ready and content with your changes hit the *Create pull request* button and fill out the template with the corresponding information.
 
 Your changes will be reviewed and then merged by the Wiki Team. They may request changes and delay merging if they find any errors.
 
