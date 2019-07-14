@@ -35,7 +35,7 @@ To check that Sphinx is correctly installed, run:
 
     sphinx-build -version
 
-If Sphinx has been installed correctly, it should output sphinx-build and the version number For example ``sphinx-build 1.7.5``
+If Sphinx has been installed correctly, it should output sphinx-build and the version number. (ex. ``sphinx-build 1.7.5``)
 
 Sphinx is required to view your changes locally before submitting them.
 
@@ -54,7 +54,7 @@ Submitting Changes
 ==================
 
 Now that you are happy with your changes remember to commit them using git and make sure to put a detailed message indicating what you have done.
-If you are working on an issue, please include a link to the corresponding Trello Card/GitHub Issue in your commit description.
+If you are working on an issue, please include a link to the corresponding GitHub Issue / Trello Card in your commit description.
 
 You are now ready to make a pull request which you can create `here <https://github.com/ProjectKorra/ProjectKorraWiki/compare>`_.
 
