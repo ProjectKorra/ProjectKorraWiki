@@ -314,7 +314,7 @@ Version
 | Usage: ``/bending version``
 | Aliases: ``[v]``
 
-Displays the version of the ProjectKorra Core jar installed on the server.
+Displays the versions of ProjectKorra plugins installed on the server.
 
 +-------------------------------------------------------------------------------------------------+
 | Permissions                                                                                     |
