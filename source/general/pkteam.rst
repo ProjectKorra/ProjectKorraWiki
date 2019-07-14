@@ -20,13 +20,13 @@ Admins are responsible for the day to day operations of ProjectKorra.
 +-----------------+-----------------+---------------+
 
 
-Dev Team
+Development Team
 --------
-The Dev Team is the backbone of ProjectKorra. Their main responsibilities include maintaining our projects' code and responding to bug-reports. 
+The Development Team is the backbone of ProjectKorra. Their main responsibilities include maintaining our projects' code and responding to bug-reports. 
 
 If you want to become a developer, click the link below to apply.
 
-`Join the Dev Team! <https://projectkorra.com/join-the-team/>`_
+`Join the Development Team! <https://projectkorra.com/join-the-team/>`_
 
 Lead Developers
 ^^^^^^^^^^^^^^^
@@ -51,6 +51,8 @@ Developers
 | PhanaticD       | Developer       | |phanaticd|   |
 +-----------------+-----------------+---------------+
 | plasmarob       | Developer       | |plasmarob|   |
++-----------------+-----------------+---------------+
+| Simplicitee     | Developer       | |simp|        |
 +-----------------+-----------------+---------------+
 | StrangeOne101   | Developer       ||strangeone101||
 +-----------------+-----------------+---------------+
@@ -112,9 +114,9 @@ Server Admins
 | Aether          | Server Admin    | |aether|      |
 +-----------------+-----------------+---------------+
 
-Builders
+Build Team
 ^^^^^^^^^^^^^^
-Builders are responsible for constructing our servers arenas and beautiful maps.
+The Build Team is responsible for constructing our servers arenas and beautiful maps.
 
 +-----------------+-----------------+---------------+
 | AndDrew         | Server Builder  | |anddrew|     |
