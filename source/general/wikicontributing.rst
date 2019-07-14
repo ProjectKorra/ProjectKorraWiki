@@ -54,7 +54,7 @@ Submitting Changes
 ==================
 
 Now that you are happy with your changes remember to commit them using git and make sure to put a detailed message indicating what you have done.
-If you are fixing/completing an issue please also reference the issue number/Trello card in your commit description.
+If you are working on an issue, please include a link to the corresponding Trello Card/GitHub Issue in your commit description.
 
 You are now ready to make a pull request which you can create `here <https://github.com/ProjectKorra/ProjectKorraWiki/compare>`_.
 
