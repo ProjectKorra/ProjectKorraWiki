@@ -2,11 +2,11 @@
 About ProjectKorra
 ==================
 
-ProjectKorra is an organization, established by MistPhizzle in June 2014, to continue maintaining a version of Orion’s original Minecraft: The Last Airbender plugin for Bukkit. ProjectKorra’s purpose is to bring the Avatar: The Last Airbender and Avatar: The Legend of Korra universes into Minecraft, giving player an opportunity to experience the show in a new light.
+ProjectKorra is an organization, established by MistPhizzle in June 2014, to continue maintaining a completely open source version of Orion304’s original Minecraft: The Last Airbender plugin for Bukkit. ProjectKorra’s purpose is to bring the Avatar: The Last Airbender and Avatar: The Legend of Korra universe into Minecraft, giving player an opportunity to experience the show in a new light.
 
 Contributing
 ============
-Here you can find information on how one can contribute to ProjectKorra. Although :ref:`joining the team <pkteam>` is the best way to contribute, below you can find information how to contribute as a community member!
+Here you can find information on how you can contribute to ProjectKorra. Although :ref:`joining the team <pkteam>` is the best way to contribute, below you can find information how to contribute as a community member!
 
 - :ref:`Contributing to the Wiki <wikicontributing>`!
 
