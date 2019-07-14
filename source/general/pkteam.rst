@@ -94,11 +94,11 @@ If you want to join the digital team, click the link below to apply
 
 `Join the Digital Team! <https://projectkorra.com/join-the-team/>`_
 
-Wiki Maintainers
-^^^^^^^^^^^^^^^^
+Maintainers
+^^^^^^^^^^^
 
 +-----------------+-----------------+---------------+
-| Jacksonnn       | Wiki Editor     | |jackson|     |
+| Jacksonnn       | Wiki Maintainer | |jackson|     |
 +-----------------+-----------------+---------------+
 
 Server Team
