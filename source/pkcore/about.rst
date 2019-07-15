@@ -14,10 +14,9 @@ the show: Firebending, Airbending, Waterbending, Earthbending, or Chiblocking.
 Features
 ========
 
-`ProjectKorra Core`_ is a plugin based off of the bending universe, thus
-so there must be bending! As stated above, players can choose from 5 skills:
-Fire, Air, Water, Earth, or Chi. Each of the skills has its own playstyle, so it's up to the player to find the
-one that suits them.
+`ProjectKorra Core`_ is the central plugin used to bring mechanics from the Avatar universe into Minecraft. As stated above, players can choose from 5 paths:
+Fire, Air, Water, Earth, or Chi. Each of the paths has its own playstyle, so it's up to the player to find the
+one that best suits them.
 
 Elements
 --------
