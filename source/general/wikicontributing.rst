@@ -14,11 +14,11 @@ To begin editing the Wiki, you first need to your environment. `Python`_ is the 
 
 1. Fork the GitHub repository and clone it.
 
-.. note:: Remember to replace *exampleusername* with your actual github username
+.. note:: Remember to replace *YOUR\_USERNAME* with your GitHub username.
 
 .. code:: bash
 
-    git clone https://github.com/exampleusername/ProjectKorraWiki.git
+    git clone https://github.com/YOUR_USERNAME/ProjectKorraWiki.git
 
 The wiki is built with Sphinx using the *sphinx_rtd_theme* from ReadTheDocs.
 Navigate to the directory you cloned the project to, then it will install all the requirements by running the following command in terminal / command prompt.
@@ -48,7 +48,7 @@ Once you have made some changes and are ready to see your edits locally, open te
 
     .\make.bat html
 
-This should build an HTML version of the wiki in the build folder in the root directory of your repository under the html folder.
+This should build an HTML version of the wiki in the build folder ("build\html\index.html") in the root directory of your repository under the html folder.
 
 Submitting Changes
 ==================
