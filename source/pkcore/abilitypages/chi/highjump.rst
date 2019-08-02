@@ -8,7 +8,7 @@ Description
 
 HighJump is a Chi Ability.
 
-HighJump allows the Chiblocker to launch themselves high in the air, letting them dodge and surpass obstacles.
+HighJump allows the Chiblocker to launch themselves high in the air, letting them dodge oncoming attacks and surpass obstacles.
 
 
 Usage
