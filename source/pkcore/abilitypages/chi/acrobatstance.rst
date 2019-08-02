@@ -8,7 +8,7 @@ Description
 
 AcrobatStance is a Chi Ability.
 
-AcrobatStance gives the Chiblocker a boost in mobility, allowing them to catch fast moving targets. GIF TO BE ADDED
+AcrobatStance allows the Chiblocker to greatly boost their mobility, at the cost of increased exhaustion. This allows them to easily catch foes and dodge oncoming attacks. AcrobatStance also makes the Chiblocker more likely to chiblock someone. GIF TO BE ADDED
 
 
 Usage
@@ -16,7 +16,7 @@ Usage
 
 USAGE GIF TO BE ADDED
 
-Function 1: [Left Click]
+Function 1: Left Click to Toggle
 
 
 .. tip:: AcrobatStance increases your chance to block someones chi!
