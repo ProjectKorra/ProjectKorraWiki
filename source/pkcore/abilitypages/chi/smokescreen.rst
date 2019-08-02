@@ -8,7 +8,7 @@ Description
 
 SmokeScreen is a Chi Ability.
 
-SmokeScreen enables a chiblocker to blind their enemies, allowing for a quick escape or an unseen approach. GIF TO BE ADDED
+SmokeScreen enables a chiblocker to blind enemies from a distance, allowing for a quick escape or an unseen approach. GIF TO BE ADDED
 
 
 Usage
