@@ -2,7 +2,7 @@
 Available Downloads
 ===================
 
-The ProjectKorra team has several projects, these are the ones available to download.
+The ProjectKorra team has several resources, these are the ones available to download.
 
 Spigot
 ======
@@ -10,7 +10,7 @@ Spigot
 
 Addons and Side Plugins
 -----------------------
-There are tons of addons and side plugins that community members have made, all the publicly released ones can be found `on our website`_!
+There are plenty of addons and side plugins released by community members. All publicly released ones can be found `on our website`_!
 
 .. note:: The ProjectKorra team cannot provide help for unofficial resources, but can assist in finding who to contact if a problem arises.
 
