@@ -114,16 +114,7 @@ Server Admins
 | Aether          | Server Admin    | |aether|      |
 +-----------------+-----------------+---------------+
 
-Build Team
-^^^^^^^^^^^^^^
-The Build Team is responsible for constructing our servers arenas and beautiful maps.
-
-+-----------------+-----------------+---------------+
-| AndDrew         | Server Builder  | |anddrew|     |
-+-----------------+-----------------+---------------+
-
 .. |aether| image:: https://crafatar.com/renders/head/7aa346d3-5ef4-429f-bc54-ced51418f3eb?size=1&overlay
-.. |anddrew| image:: https://crafatar.com/renders/head/0d90c254-2c5b-41d1-8827-e90f5f9c040f?size=1&overlay
 .. |alexthecoder| image:: https://crafatar.com/renders/head/a47a4d04-9f51-44ba-9d35-8de6053e9289?size=1&overlay
 .. |coolade| image:: https://crafatar.com/renders/head/96f40c81-dd5d-46b6-9afe-365114d4a082?size=1&overlay
 .. |favourite| image:: https://crafatar.com/renders/head/01535a73-ff8d-4d6c-851e-c71f89e936aa?size=1&overlay
