@@ -8,7 +8,7 @@ Description
 
 Paralyze is a Chi Ability.
 
-Paralyze allows the Chiblocker to paralyze entities for a short time period. GIF 
+Paralyze allows Chiblockers to stun entities for a short period of time during which they are completely helpless. GIF TO BE ADDED
 
 
 Usage
@@ -16,7 +16,7 @@ Usage
 
 GIF TO BE ADDED
 
-Function 1: [Left Click] the target entity 
+Function 1: [Hit Enemy]
 
 
 .. tip:: Paralyze can turn the tide of a fight, be sure to use it with your other abilities!
