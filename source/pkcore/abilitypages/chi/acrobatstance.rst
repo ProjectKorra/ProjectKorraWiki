@@ -49,7 +49,7 @@ Configuration
 
 * ``Enabled`` determines whether the ability is available to use. It takes a boolean value [true/false].
 * ``Cooldown`` determines the cooldown of the ability after being used. It takes an integer value and is equivalent to number of milliseconds.
-* ``ChiBlockBoost`` determines the percent that AcrobatStance will boost chiblock probability. It takes an integer value from 1-100 is equivalent to percent chance of blocking chi.
+* ``ChiBlockBoost`` determines the percent that AcrobatStance will boost chiblock probability. It takes an integer value from 1-100 is equivalent to increased percent of blocking chi.
 * ``Speed`` determines the strength of the speed effect added by AcrobatStance. It takes an integer value and represents the level of the speed effect.    
 * ``Jump`` determines the strength of the jump boost effect added by AcrobatStance. It takes an integer value and represents the level of the jump boost effect.    
     
