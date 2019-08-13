@@ -7,6 +7,7 @@ Description
 ###########
 
 Paralyze is a Chi Ability.
+
 Paralyze allows the Chiblocker to paralyze entities for a short time period. GIF 
 
 
@@ -18,7 +19,7 @@ GIF TO BE ADDED
 Function 1: [Left Click] the target entity 
 
 
-.. tip:: After using Paralyze, be sure to follow up with your other abilities!
+.. tip:: Paralyze can turn the tide of a fight, be sure to use it with your other abilities!
 
 
 Permissions
@@ -47,7 +48,7 @@ Configuration
       
 * ``Enabled`` determines whether the ability is available to use. It takes a boolean value [true/false].
 * ``Cooldown`` determines the cooldown of the ability after being used. It takes an integer value and is equivalent to number of milliseconds.
-* ``Duration`` determines how long the ability remains active. It takes an integer value and is equivalent to number of milliseconds.    
+* ``Duration`` determines how long the target is paralyzed. It takes an integer value and is equivalent to number of milliseconds.    
     
 .. |ABILNAMEHERE1| figure: abilnamegif1.png
     :align: right
