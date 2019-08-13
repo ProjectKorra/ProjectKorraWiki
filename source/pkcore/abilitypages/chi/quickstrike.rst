@@ -18,7 +18,7 @@ USAGE GIF TO BE ADDED
 
 Function 1: [Hit Enemy]
 
-.. tip:: QuickStrike blocks bending for short amount of time, time it to your advantage!
+.. tip:: QuickStrike can block bending for short amount of time!
 
 When hit with QuickStrike, the enemy will potentially be chi blocked, and will have been dealt damage as determined by the configuration.
 
