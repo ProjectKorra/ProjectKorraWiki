@@ -26,7 +26,7 @@ command are ``/bending, /b, /bend, /tla, /mtla, /korra,  /pk``.
 
 Add
 ---
-| Usage: ``/bending add <player> <element>``
+| Usage: ``/bending add <element> <player>``
 | Aliases: ``[a]``
 
 Adds the specified <element> to the target <player>.
