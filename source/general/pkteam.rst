@@ -47,8 +47,6 @@ Developers
 +-----------------+-----------------+---------------+
 | Jacklin213      | Developer       | |jacklin213|  |
 +-----------------+-----------------+---------------+
-| PhanaticD       | Developer       | |phanaticd|   |
-+-----------------+-----------------+---------------+
 | plasmarob       | Developer       | |plasmarob|   |
 +-----------------+-----------------+---------------+
 | Simplicitee     | Developer       | |simp|        |
@@ -139,7 +137,6 @@ Moderators
 .. |jackson| image:: https://crafatar.com/renders/head/4454a74e-0297-4c8c-a95b-89ac1fc63e39?size=1&overlay
 .. |mahtaran| image:: https://crafatar.com/renders/head/4f61d6e6-e688-49cd-9356-2319271d1bef?size=1&overlay
 .. |mnesikos| image:: https://crafatar.com/renders/head/f4e7fb2b-b2f9-4ab6-96e7-b42e798561ce?size=1&overlay
-.. |phanaticd| image:: https://crafatar.com/renders/head/ad48dc86-1c3b-47be-8993-eb48aeb47705?size=1&overlay
 .. |pickle9775| image:: https://crafatar.com/renders/head/1553482a-5e86-4270-9262-b57c11151074?size=1&overlay
 .. |plasmarob| image:: https://crafatar.com/renders/head/4f7cf9cd-ee04-4480-8ca0-7bca9b1db302?size=1&overlay
 .. |mist| image:: https://crafatar.com/renders/head/8621211e-283b-46f5-87bc-95a66d68880e?size=1&overlay
