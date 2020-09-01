@@ -36,26 +36,18 @@ Please ensure that your suggestion is not a duplicate of another already posted!
 Where can I download ProjectKorra?
 ==================================
 
-The latest release of ProjectKorra is 1.8.9, which is compatible with Spigot 1.15.2 and 1.14.4. You can download it `here <https://projectkorra.com/forum/resources/projectkorra-core.1/>`_.
+The latest release of ProjectKorra is 1.9.0, which is compatible with Spigot 1.16. You can download it `here <https://projectkorra.com/forum/resources/projectkorra-core.1/>`_.
 
 Does ProjectKorra work for X version?
 ================================
 
-ProjectKorra's latest release, 1.8.9, was designed for Spigot 1.15.2 and 1.14.4.
+ProjectKorra's latest release, 1.9.0, was designed for Spigot 1.16.
 If you installed it on a different version of Spigot, the plugin would not be guaranteed to work properly. Using ProjectKorra with versions other than the ones stated above is not recommended.
 
 How do I install ProjectKorra on my server?
 ===========================================
 
 First, download ProjectKorra from the link above. Then, place the .jar file you downloaded into your server's "plugins" folder. Finally, restart your server.
-
-How do I install ProjectKorra on my Aternos or Minehut server?
-==============================================================
-
-Due to the latest version of ProjectKorra on the Spigot forums being an outdated version, and the developers currently being unable to access the page, there is no way for you to get the latest version of ProjectKorra on your Aternos or Minehut server. 
-Because Minehut and Aternos do not allow you to upload your own files, you would not be able to manually upload the latest version either.
-The best alternative for a Minecraft server is to use a professional hosting service. If you do not have the budget, you could use your own computer to host a server. 
-Otherwise, your best bet might be to use the free plan for `server.pro <https://server.pro/>`_, which does allow directly uploading plugins and files.
 
 How do I get the bending sideboard that shows my bound abilities?
 =================================================================
@@ -65,7 +57,7 @@ The well-known side plugins JedCore and ProjectAddons come with bending boards, 
 The download links for both side plugins can be found below; to install them you'd download the .jar file and put it in your server's "plugins" folder.
 .. note:: These side plugins are addons and are not maintained by ProjectKorra, and ProjectKorra developers may not be able to offer support with them.
 `JedCore download for Minecraft 1.15/1.14 <https://github.com/plushmonkey/JedCore/releases>`_
-`ProjectAddons download for Minecraft 1.15/1.14 <https://github.com/Simplicitee/ProjectAddons/releases>`_
+`ProjectAddons download for Minecraft 1.16 <https://github.com/Simplicitee/ProjectAddons/releases>`_
 
 How do I use ProjectKorra on singleplayer?
 ==========================================
