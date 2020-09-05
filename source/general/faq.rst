@@ -55,7 +55,9 @@ How do I get the bending sideboard that shows my bound abilities?
 ProjectKorra currently doesn't come with a bending sideboard. You'd have to install a side plugin for this.
 The well-known side plugins JedCore and ProjectAddons come with bending boards, but they also include a myriad of addon abilities.
 The download links for both side plugins can be found below; to install them you'd download the .jar file and put it in your server's "plugins" folder.
+
 .. note:: These side plugins are addons and are not maintained by ProjectKorra, and ProjectKorra developers may not be able to offer support with them.
+
 `JedCore download for Minecraft 1.15/1.14 <https://github.com/plushmonkey/JedCore/releases>`_
 `ProjectAddons download for Minecraft 1.16 <https://github.com/Simplicitee/ProjectAddons/releases>`_
 
