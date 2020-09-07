@@ -11,7 +11,7 @@ Commands
 The base command for the ProjectKorra plugin is ``/projectkorra``. Aliases for this
 command are ``/bending, /b, /bend, /tla, /mtla, /korra,  /pk``.
 
-.. tip:: the ``/projectkorra`` command is more commonly known as ``/bending`` and will be referred to below by that alias.
+.. tip:: The ``/projectkorra`` command is more commonly known as ``/bending`` and will be referred to below by that alias.
 
 +++++
 
@@ -26,7 +26,7 @@ command are ``/bending, /b, /bend, /tla, /mtla, /korra,  /pk``.
 
 Add
 ---
-| Usage: ``/bending add <player> <element>``
+| Usage: ``/bending add <element> <player>``
 | Aliases: ``[a]``
 
 Adds the specified <element> to the target <player>.
@@ -162,7 +162,7 @@ Help
 | Usage: ``/bending help [topic]``
 | Aliases: ``[h]``
 
-Shows the help for a given topic, usually and ability, element, or other feature
+Shows the help for a given ability, element, command, or other feature
 of the plugin, or lists all bending commands if not given a topic.
 
 +-------------------------------------------------------------------------------------------------+
@@ -294,8 +294,8 @@ Toggle
 | Usage: ``/bending toggle [element / player / all]``
 | Aliases: ``[t]``
 
-Toggles the selected element, or bending of the targeted player or all,
-and toggles bending for self if not argument given.
+Toggles the selected element or bending overall of the targeted player or all players,
+and toggles bending for self if no argument is given.
 
 +-------------------------------------------------------------------------------------------------+
 | Permissions                                                                                     |
