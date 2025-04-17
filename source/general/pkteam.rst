@@ -22,7 +22,7 @@ Admins are responsible for the day to day operations of ProjectKorra.
 +-----------------+-----------------+---------------+
 
 Development Team
---------
+----------------
 The Development Team is the backbone of ProjectKorra. Their main responsibilities include maintaining our projects' code and responding to bug-reports. 
 
 If you want to become a developer, click the link below to apply.
@@ -38,6 +38,7 @@ Lead Developers
 
 Developers
 ^^^^^^^^^^
+
 +-----------------+-----------------+---------------+
 | AlexTheCoder    | Developer       | |alexthecoder||
 +-----------------+-----------------+---------------+
@@ -58,6 +59,56 @@ Developers
 
 Junior Developers
 ^^^^^^^^^^^^^^^^^
++-------------------+----------------+------------------------+
+| ryandusty         | Jr Developer   | |RyanDusty|            |
++-------------------+----------------+------------------------+
+| .feenicks.        | Jr Developer   | |PhoenixGamer36|       |
++-------------------+----------------+------------------------+
+| .wschris          | Jr Developer   | |wschris|              |
++-------------------+----------------+------------------------+
+| safirey           | Jr Developer   | |Darkermoon|           |
++-------------------+----------------+------------------------+
+| ChrisWildfire     | Jr Developer   | |ChrisWildfire|        |
++-------------------+----------------+------------------------+
+| yazer\_           | Jr Developer   | |Yazer|                |
++-------------------+----------------+------------------------+
+| HiddenInALeaf     | Jr Developer   | |_Cayde_7|             |
++-------------------+----------------+------------------------+
+| Nysseus           | Jr Developer   | |Nysseus|              |
++-------------------+----------------+------------------------+
+| akatex            | Jr Developer   | |akatex|               |
++-------------------+----------------+------------------------+
+| lexicaldevil      | Jr Developer   | |lexicaldevil|         |
++-------------------+----------------+------------------------+
+| scoterbium        | Jr Developer   | |Scoterbium|           |
++-------------------+----------------+------------------------+
+| macbarm           | Jr Developer   | |macbarm|              |
++-------------------+----------------+------------------------+
+| Shaydeuh          | Jr Developer   | |Dividendes|           |
++-------------------+----------------+------------------------+
+| manuel04\_        | Jr Developer   | |Manunu_|              |
++-------------------+----------------+------------------------+
+| Pailong           | Jr Developer   | |Pailong|              |
++-------------------+----------------+------------------------+
+| .blackxlight      | Jr Developer   | |WhiteXShadow|         |
++-------------------+----------------+------------------------+
+| Nikkoi            | Jr Developer   | |Nikkoi|               |
++-------------------+----------------+------------------------+
+| crashcringle      | Jr Developer   | |CrashCringle12|       |
++-------------------+----------------+------------------------+
+| vincentcf         | Jr Developer   | |Vincentcf|            |
++-------------------+----------------+------------------------+
+| kugelbltz         | Jr Developer   | |Kugelbltz|            |
++-------------------+----------------+------------------------+
+| seabass003        | Jr Developer   | |lennylion321|         |
++-------------------+----------------+------------------------+
+| unprankable01     | Jr Developer   | |Unprankable|          |
++-------------------+----------------+------------------------+
+| Epicboy330        | Jr Developer   | |Lilbuddy22|           |
++-------------------+----------------+------------------------+
+| minghua           | Jr Developer   | |minghua|              |
++-------------------+----------------+------------------------+
+
 Junior Developers are developers in training. They help out where they can and work on expanding their skills to eventually become developers
 
 Mod Developers
@@ -125,6 +176,9 @@ Moderators
 +-----------------+-----------------+---------------+
 | HadesDude       | Moderator       | |hadesdude|   |
 +-----------------+-----------------+---------------+
+| Nysseus         | Moderator       | |Nysseus|     |
++-----------------+-----------------+---------------+
+
 
 .. |aether| image:: https://crafatar.com/renders/head/7aa346d3-5ef4-429f-bc54-ced51418f3eb?size=1&overlay
 .. |alexthecoder| image:: https://crafatar.com/renders/head/a47a4d04-9f51-44ba-9d35-8de6053e9289?size=1&overlay
@@ -146,3 +200,27 @@ Moderators
 .. |strangeone101| image:: https://crafatar.com/renders/head/d7757be8-86de-4898-ab4f-2b1b2fbc3dfa?size=1&overlay
 .. |waterchief| image:: https://crafatar.com/renders/head/be9dd246-dd2e-491b-93ee-0caf2786bf65?size=1&overlay
 .. |varhagna| image:: https://crafatar.com/renders/head/592fb564-701a-4a5e-9d65-13f7ed0acf59?size=1&overlay
+.. |RyanDusty| image:: https://crafatar.com/renders/head/55cf142a-7ece-4ce0-9fb7-4ba1ce4596aa?size=1&overlay
+.. |PhoenixGamer36| image:: https://crafatar.com/renders/head/0af33903-5ecd-4753-99ce-5d706ae4bc32?size=1&overlay
+.. |wschris| image:: https://crafatar.com/renders/head/6d788000-63cc-4bd0-af02-b717b9ea32e3?size=1&overlay
+.. |Darkermoon| image:: https://crafatar.com/renders/head/e90bd59b-0c05-4ed2-b31c-114e1128525f?size=1&overlay
+.. |ChrisWildfire| image:: https://crafatar.com/renders/head/61557f8f-38bb-49b5-9784-1af2df17328f?size=1&overlay
+.. |Yazer| image:: https://crafatar.com/renders/head/d395b824-0db8-489e-908c-9ebe32796a91?size=1&overlay
+.. |_Cayde_7| image:: https://crafatar.com/renders/head/2a2a5a0f-444e-4c65-a13c-fb7cdc0aa00b?size=1&overlay
+.. |Nysseus| image:: https://crafatar.com/renders/head/383764b8-5473-43c7-8255-a7304c55746a?size=1&overlay
+.. |akatex| image:: https://crafatar.com/renders/head/7dd4b054-93d0-41b0-b19f-3ea5961fa4db?size=1&overlay
+.. |lexicaldevil| image:: https://crafatar.com/renders/head/11e8b0e8-7886-48a5-a200-c322efe1dd05?size=1&overlay
+.. |Scoterbium| image:: https://crafatar.com/renders/head/35c321f9-d0d8-418b-ba5a-c8a26091f359?size=1&overlay
+.. |macbarm| image:: https://crafatar.com/renders/head/0a022aaa-1251-4fd1-bd8b-3db91e84082b?size=1&overlay
+.. |Dividendes| image:: https://crafatar.com/renders/head/e41ed468-582c-4081-a429-9bb1e4a7733b?size=1&overlay
+.. |Manunu_| image:: https://crafatar.com/renders/head/7d283a87-378d-4384-b748-3480dc7d3814?size=1&overlay
+.. |Pailong| image:: https://crafatar.com/renders/head/8ce1e1af-73a3-450d-829d-bf20c51b0a15?size=1&overlay
+.. |WhiteXShadow| image:: https://crafatar.com/renders/head/3e7e3461-f1fd-4cb7-8b46-208a604dd736?size=1&overlay
+.. |Nikkoi| image:: https://crafatar.com/renders/head/ae095226-373a-4654-a2ee-315bcae02c90?size=1&overlay
+.. |CrashCringle12| image:: https://crafatar.com/renders/head/864f0da4-3187-4234-8366-f2e16e21eac5?size=1&overlay
+.. |Vincentcf| image:: https://crafatar.com/renders/head/051f8007-4991-4c50-8bf8-de7a4981a743?size=1&overlay
+.. |Kugelbltz| image:: https://crafatar.com/renders/head/606e8422-e4b9-4921-a673-ca85ffb35be6?size=1&overlay
+.. |lennylion321| image:: https://crafatar.com/renders/head/21a2f663-8ca6-421f-b51d-bc13c43c7adf?size=1&overlay
+.. |Unprankable| image:: https://crafatar.com/renders/head/8e6c8ea4-e952-4dc3-a0cc-0e623dcee05b?size=1&overlay
+.. |Lilbuddy22| image:: https://crafatar.com/renders/head/56c66a94-fa3e-4955-9344-1825d4a5a600?size=1&overlay
+.. |minghua| image:: https://crafatar.com/renders/head/ba912133-e6ad-49b6-b726-0cea8f73e640?size=1&overlay

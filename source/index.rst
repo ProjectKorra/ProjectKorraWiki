@@ -7,7 +7,7 @@
 
 ++++
 
-Below is a directory containing all of the pages in this Wiki. Contents are divided topically (General refers to miscellaneous ProjectKorra information, Core refers to ProjectKorra Core information, etc).
+Below there is a directory containing all of the pages in this Wiki. Contents are divided topically (General refers to miscellaneous ProjectKorra information, Core refers to ProjectKorra Core information, etc).
 
 .. toctree::
    :caption: General

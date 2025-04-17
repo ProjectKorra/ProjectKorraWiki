@@ -1,33 +1,48 @@
-.. _earthblast:
+.. earthblast:
+############
+EARTHBLAST
+############
 
-==========
-EarthBlast
-==========
+Description
+###########
 
-EarthBlast is the main offensive ability for earth, where you throw earth at an entity to damage them
+**Element:** Earth
 
-.. TODO: Put gif of ability here
+EarthBlast is a focused, ranged earthbending move that allows the user to launch a projectile of compressed stone toward enemies. The blast can deal significant damage and is useful for long-range combat, offering both offensive power and control over the battlefield.
 
-How to Use
-==========
-While on your EarthBlast bind, first sneak while looking at an earthbendable
-block to select your source, then left click in the direction you want to
-throw the earth block.
+Usage
+#####
 
-+++++
+**Function 1:** Left-click to launch a single blast of earth at the targeted direction
 
-Config
-======
+**Function 2:** Hold sneak and left-click to fire a larger, more powerful blast that affects a wider area
 
-.. TODO: Put a code block here of the config
-
-
-+++++
+.. tip:: EarthBlast can be used for both offense and strategic positioning. Aim for groups of enemies to maximize damage or to knock back individual targets.
 
 Permissions
-===========
+###########
+Below is a table that outlines the permission nodes for this ability.
 
++-------------------------------------+-------------------------------+---------+
+| Permission                          | Function                      | Default |
++-------------------------------------+-------------------------------+---------+
+| bending.ability.earthblast          | Access to EarthBlast ability  | true    |
++-------------------------------------+-------------------------------+---------+
 
-+----------------------------+---------------------------------------------+
-| bending.ability.earthblast | Allows ability to be used, given by default |
-+----------------------------+---------------------------------------------+
+Configuration
+#############
+
+.. code:: YAML
+
+    EarthBlast:
+      Enabled: true
+      CanHitSelf: false
+      SelectRange: 10
+      Range: 30
+      Speed: 35
+      Revert: true
+      Damage: 3
+      Push: 0.3
+      Cooldown: 500
+      DeflectRange: 3
+      CollisionRadius: 1.5

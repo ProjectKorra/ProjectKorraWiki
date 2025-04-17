@@ -6,7 +6,7 @@ ProjectKorra is an organization, established by MistPhizzle in June 2014, to con
 
 Contributing
 ============
-Here you can find information on how you can contribute to ProjectKorra. Although :ref:`joining the team <pkteam>` is the best way to contribute, below you can find information how to contribute as a community member!
+Here you can find information on how you can contribute to ProjectKorra. Although :ref:`joining the team <pkteam>` is the best way to contribute, below you can find information how you can contribute as a community member!
 
 - :ref:`Contributing to the Wiki <wikicontributing>`!
 

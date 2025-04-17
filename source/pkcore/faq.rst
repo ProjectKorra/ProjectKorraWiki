@@ -7,7 +7,7 @@ FAQ
 What Spigot version does the current plugin version support?
 ============================================================
 
-ProjectKorra Core **v1.8.8** is compatible with Spigot **1.13.2** at the moment.
+ProjectKorra Core **v1.12.0** is compatible with Spigot **1.16.0** at the moment.
 
 .. _corebug:
 

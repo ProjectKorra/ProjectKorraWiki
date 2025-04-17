@@ -46,13 +46,3 @@ Configuration
 .. code:: YAML
 
     Paste Config Here
-    
-    
-.. |ABILNAMEHERE1| figure: abilnamegif1.png
-    :align: right
-    :alt: Picture of []
-    :figclass: align-center
-
-    Insert caption
-    
-.. ADD MORE IMAGES BELOW HERE

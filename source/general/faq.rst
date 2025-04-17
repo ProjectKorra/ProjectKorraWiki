@@ -36,12 +36,12 @@ Please ensure that your suggestion is not a duplicate of another already posted!
 Where can I download ProjectKorra?
 ==================================
 
-The latest release of ProjectKorra is 1.9.0, which is compatible with Spigot 1.16. You can download it `here <https://projectkorra.com/forum/resources/projectkorra-core.1/>`_.
+The latest release of ProjectKorra is 1.12.0, which is compatible with Spigot 1.16. You can download it `here <https://projectkorra.com/forum/resources/projectkorra-core.1/>`_.
 
 Does ProjectKorra work for X version?
 ================================
 
-ProjectKorra's latest release, 1.9.0, was designed for Spigot 1.16.
+ProjectKorra's latest release, 1.12.0, was designed for Spigot 1.16.
 If you installed it on a different version of Spigot, the plugin would not be guaranteed to work properly. Using ProjectKorra with versions other than the ones stated above is not recommended.
 
 How do I install ProjectKorra on my server?
@@ -52,7 +52,7 @@ First, download ProjectKorra from the link above. Then, place the .jar file you 
 How do I get the bending sideboard that shows my bound abilities?
 =================================================================
 
-ProjectKorra currently doesn't come with a bending sideboard. You'd have to install a side plugin for this.
+Some server softwares like folia. Do not have scoreboards. You'd have to install a side plugin for this.
 The well-known side plugins JedCore and ProjectAddons come with bending boards, but they also include a myriad of addon abilities.
 The download links for both side plugins can be found below; to install them you'd download the .jar file and put it in your server's "plugins" folder.
 
