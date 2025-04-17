@@ -40,21 +40,17 @@ Developers
 ^^^^^^^^^^
 
 +-----------------+-----------------+---------------+
-| AlexTheCoder    | Developer       | |alexthecoder||
-+-----------------+-----------------+---------------+
-| Coolade         | Developer       | |coolade|     |
-+-----------------+-----------------+---------------+
-| Finn\_Bueno\_   | Developer       | |finnbueno|   |
-+-----------------+-----------------+---------------+
-| Jacklin213      | Developer       | |jacklin213|  |
-+-----------------+-----------------+---------------+
-| plasmarob       | Developer       | |plasmarob|   |
+| Justahuman_xd   | Developer       ||JustAHuman_xD||
 +-----------------+-----------------+---------------+
 | Simplicitee     | Developer       | |simp|        |
 +-----------------+-----------------+---------------+
 | StrangeOne101   | Developer       ||strangeone101||
 +-----------------+-----------------+---------------+
-| Varhagna        | Developer       | |varhagna|    |
+| Cozmycdev       | Developer       | |dooder07|    |
++-----------------+-----------------+---------------+
+| prideyy         | Developer       | |Prride|      |
++-----------------+-----------------+---------------+
+| Dreig_Michihi   | Developer       ||Dreig_Michihi||
 +-----------------+-----------------+---------------+
 
 Junior Developers
@@ -224,3 +220,7 @@ Moderators
 .. |Unprankable| image:: https://crafatar.com/renders/head/8e6c8ea4-e952-4dc3-a0cc-0e623dcee05b?size=1&overlay
 .. |Lilbuddy22| image:: https://crafatar.com/renders/head/56c66a94-fa3e-4955-9344-1825d4a5a600?size=1&overlay
 .. |minghua| image:: https://crafatar.com/renders/head/ba912133-e6ad-49b6-b726-0cea8f73e640?size=1&overlay
+.. |JustAHuman_xD| image :: https://crafatar.com/renders/head/476ca51b-ec04-431b-87da-dd22b20aa8bf?size=1&overlay
+.. |dooder07| image :: https://crafatar.com/renders/head/b6bd2ceb-4922-4707-9173-8a02044e9069?size=1&overlay
+.. |Prride| image :: https://crafatar.com/renders/head/5e7db6d3-add9-4aab-b1fc-3dda8f5713f4?size=1&overlay
+.. |Dreig_Michihi| image :: https://crafatar.com/renders/head/71d42b35-dd94-408e-941d-88d4a61031c7?size=1&overlay
