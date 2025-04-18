@@ -9,7 +9,7 @@ This page contains all of the commands and permissions in ProjectKorra Core.
 Commands
 ========
 The base command for the ProjectKorra plugin is ``/projectkorra``. Aliases for this
-command are ``/bending, /b, /bend, /tla, /mtla, /korra,  /pk``.
+command include: ``/bending, /b, /bend, /tla, /mtla, /korra,  /pk``.
 
 .. tip:: The ``/projectkorra`` command is more commonly known as ``/bending`` and will be referred to below by that alias.
 

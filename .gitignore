@@ -2,7 +2,7 @@
 ## Sphinx build files
 #######################
 build/
-
+.vscode/
 ##########
 ## jEdit
 ##########

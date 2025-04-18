@@ -53,7 +53,7 @@ This should build an HTML version of the wiki in the build folder ("build\html\i
 Submitting Changes
 ==================
 
-Now that you are happy with your changes remember to commit them using git and make sure to put a detailed message indicating what you have done.
+Now that you're happy with your changes remember to commit them using git and make sure to put a detailed message indicating what you have done.
 If you are working on an issue, please include a link to the corresponding GitHub Issue / Trello Card in your commit description.
 
 You are now ready to make a pull request which you can create `here <https://github.com/ProjectKorra/ProjectKorraWiki/compare>`_.

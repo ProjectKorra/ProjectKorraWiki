@@ -23,23 +23,28 @@ Elements
 
 -  Air is the element of freedom. Airbenders are quick, agile, and
    passive in nature, preferring to bob and weave through flurries of
-   attacks, and defending if they have no other option.
+   attacks, and defending if they have no other option. Air is good for 
+   building, traveling and agility
 
 -  Fire is the element of power. Firebenders are very aggressive and
    powerful, choosing to overwhelm their opponents with an endless
-   onslaught of offensive attacks instead of being defensive.
+   onslaught of offensive attacks instead of being defensive. fire is good 
+   for combat. 
 
 -  Earth is the element of substance. Earthbenders stay rooted to the
    ground, preferring to face opponents head-on, using a mix of
-   defensive and offensive strategies to crush their foes.
+   defensive and offensive strategies to crush their foes. earthbending
+   is good for mining. and provides a good balance.
 
 -  Water is the element of change. Waterbenders use their plethora of
    skills to redirect and manipulate opponents attacks against them.
    Similar to Earthbenders, they employ both defensive and offensive
-   strategies to accomplish this.
+   strategies to accomplish this. water is good for ocean travel, and 
+   is very versatile. 
 
 -  Chi is the anti-bending fighting style. Chiblockers use well placed blows to 
    temporarily disable their opponents bending, leaving them virtually defenseless.
+   good for people that don't know how to bend and want to be annoying.
 
 `ProjectKorra API`_
 -------------------

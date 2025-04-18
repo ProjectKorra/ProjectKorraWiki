@@ -16,7 +16,17 @@ Airbending abilities focus on mobility and evasiveness, limiting their combat po
     :name: airtree
     :maxdepth: 1
 
+    abilitypages/air/airspout
+    abilitypages/air/airsuction
+    abilitypages/air/airburst
+    abilitypages/air/tornado
+    abilitypages/air/airblast
+    abilitypages/air/airhsield
+    abilitypages/air/suffocate
+    abilitypages/air/airscooter
     abilitypages/air/airswipe
+
+
 
 Earthbending
 ============
@@ -30,7 +40,16 @@ Earthbending abilities focus on strengthening and defending oneself.
     :name: earthtree
     :maxdepth: 1
 
+    abilitypages/earth/eartharmor
+    abilitypages/earth/raiseearth
+    abilitypages/earth/earthsmash
     abilitypages/earth/earthblast
+    abilitypages/earth/tremorsense
+    abilitypages/earth/earthtunnel
+    abilitypages/earth/collapse
+    abilitypages/earth/shockwave
+    abilitypages/earth/earthgrab
+    abilitypages/earth/catapult
 
 Firebending
 ===========
@@ -44,7 +63,14 @@ Firebending abilities focus on boosting combat potential and destroying obstacle
     :name: firetree
     :maxdepth: 1
 
+    abilitypages/fire/fireshield
+    abilitypages/fire/fireburst
     abilitypages/fire/fireblast
+    abilitypages/fire/walloffire
+    abilitypages/fire/heatcontrol
+    abilitypages/fire/blaze
+    abilitypages/fire/firejet
+    abilitypages/fire/illumination
 
 Waterbending
 ============
@@ -58,7 +84,13 @@ Waterbending abilities focus on rapidly shifting between mobility, offense, and 
     :name: watertree
     :maxdepth: 1
 
+    abilitypages/water/waterspout
+    abilitypages/water/torrent
+    abilitypages/water/surge
+    abilitypages/water/waterbubble
     abilitypages/water/watermanipulation
+    abilitypages/water/octupusform
+    abilitypages/water/waterarms
 
 Chiblocking
 ===========
@@ -71,4 +103,11 @@ Chiblocking abilities focus on close quarters combat and countering bending abil
     :name: chitree
     :maxdepth: 1
 
+    abilitypages/chi/swiftkick
+    abilitypages/chi/acrobatstance
+    abilitypages/chi/paralyze
+    abilitypages/chi/smokescreen
+    abilitypages/chi/warriorstance
+    abilitypages/chi/rapidpunch
+    abilitypages/chi/Highjump
     abilitypages/chi/quickstrike

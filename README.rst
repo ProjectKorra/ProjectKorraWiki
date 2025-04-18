@@ -6,7 +6,7 @@ ProjectKorra Official Wiki
     :target: https://wiki.projectkorra.com
     :alt: Documentation Status
 
-Welcome to the ProjectKorra Wiki, the official source of information for all things relating to `ProjectKorra <https://projectkorra.com>`_.
+Welcome to the ProjectKorra Wiki, the official source of information for all things relating to all things `ProjectKorra <https://projectkorra.com>`_.
 
 Info
 ====

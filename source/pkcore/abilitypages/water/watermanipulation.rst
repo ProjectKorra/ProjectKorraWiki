@@ -1,33 +1,48 @@
-.. _watermanipulation:
+.. watermanipulation:
+#######################
+WATERMANIPULATION
+#######################
 
-=================
-WaterManipulation
-=================
+Description
+###########
 
-WaterManipulation is the main offensive ability for water, where the user creates a small torrent of water to damage and knockback entities
+**Element:** Water
 
-.. TODO: Put gif of ability here
+WaterManipulation is a core waterbending ability that allows the user to bend a stream of water from a source block and launch it at enemies. It’s fast, precise, and effective as both an offensive and tactical move. This ability can deal damage, knock back targets, and even freeze depending on conditions or combo usage.
 
-How to Use
-==========
-While on your WaterManipulation bind, first sneak while looking at a waterbendable
-block to select your source, then left click in the direction you want the torrent
-of water to go toward.
+Usage
+#####
 
-+++++
+**Function 1:** Sneak to select a water source within range and begin drawing water toward you
 
-Config
-======
+**Function 2:** Left-click to launch the stream of water at your target, dealing damage and knockback
 
-.. TODO: Put a code block here of the config
+**Function 3:** (Optional) If configured, the stream may freeze on contact or push entities depending on the setting
 
-
-+++++
+.. tip:: Master this ability to quickly follow up with combos. It’s great for pressuring enemies or knocking them into hazards.
 
 Permissions
-===========
+###########
+Below is a table that outlines the permission nodes for this ability.
 
++----------------------------------------------+-------------------------------+---------+
+| Permission                                   | Function                      | Default |
++----------------------------------------------+-------------------------------+---------+
+| bending.ability.watermanipulation            | Access to WaterManipulation   | true    |
++----------------------------------------------+-------------------------------+---------+
 
-+-----------------------------------+---------------------------------------------+
-| bending.ability.watermanipulation | Allows ability to be used, given by default |
-+-----------------------------------+---------------------------------------------+
+Configuration
+#############
+
+.. code:: YAML
+
+    WaterManipulation:
+      Enabled: true
+      Damage: 3.0
+      Range: 25
+      SelectRange: 16
+      CollisionRadius: 1.0
+      DeflectRange: 3
+      Speed: 35
+      Knockback: 0.3
+      Cooldown: 1000

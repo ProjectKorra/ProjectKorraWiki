@@ -10,7 +10,7 @@ Plugins
 
 Addons and Side Plugins
 -----------------------
-There are plenty of addons and side plugins released by community members. All publicly released ones can be found `on our website`_!
+There are plenty of addons and side plugins released by our community members. All publicly released ones can be found `on our website`_!
 
 .. note:: The ProjectKorra team cannot provide help for unofficial resources, but can assist in finding who to contact if a problem arises.
 
