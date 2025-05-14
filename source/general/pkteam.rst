@@ -23,6 +23,7 @@ Admins are responsible for the day to day operations of ProjectKorra.
 
 Development Team
 ----------------
+----------------
 The Development Team is the backbone of ProjectKorra. Their main responsibilities include maintaining our projects' code and responding to bug-reports. 
 
 If you want to become a developer, click the link below to apply.
@@ -38,6 +39,20 @@ Lead Developers
 
 Developers
 ^^^^^^^^^^
+
++-----------------+-----------------+------------------+
+| Justahuman\_xd  | Developer       | |JustAHuman_xD|  |
++-----------------+-----------------+------------------+
+| Simplicitee     | Developer       | |simp|           |
++-----------------+-----------------+------------------+
+| StrangeOne101   | Developer       | |strangeone101|  |
++-----------------+-----------------+------------------+
+| cozmycdev       | Developer       | |dooder07|       |
++-----------------+-----------------+------------------+
+| prideyy         | Developer       | |Prride|         |
++-----------------+-----------------+------------------+
+| Dreig\_Michihi  | Developer       | |Dreig_Michihi|  |
++-----------------+-----------------+------------------+
 
 +-----------------+-----------------+------------------+
 | Justahuman\_xd  | Developer       | |JustAHuman_xD|  |
@@ -176,6 +191,9 @@ Moderators
 +-----------------+-----------------+---------------+
 | HadesDude       | Moderator       | |hadesdude|   |
 +-----------------+-----------------+---------------+
+| Nysseus         | Moderator       | |Nysseus|     |
++-----------------+-----------------+---------------+
+
 | Nysseus         | Moderator       | |Nysseus|     |
 +-----------------+-----------------+---------------+
 
