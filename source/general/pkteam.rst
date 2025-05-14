@@ -193,8 +193,6 @@ Moderators
 +-----------------+-----------------+---------------+
 | Nysseus         | Moderator       | |Nysseus|     |
 +-----------------+-----------------+---------------+
-| Nysseus         | Moderator       | |Nysseus|     |
-+-----------------+-----------------+---------------+
 
 
 .. |aether| image:: https://crafatar.com/renders/head/7aa346d3-5ef4-429f-bc54-ced51418f3eb?size=1&overlay
