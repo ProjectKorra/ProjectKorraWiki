@@ -104,6 +104,10 @@ Junior Developers
 +-------------------+----------------+------------------------+
 | minghua           | Jr Developer   | |minghua|              |
 +-------------------+----------------+------------------------+
+| thelastblockbender| Jr Developer   | |cutiepiemommy|        |
++-------------------+----------------+------------------------+
+| shubhkhandelwal   | Jr Developer   | |shubhkk|              |
++-------------------+----------------+------------------------+
 
 Junior Developers are developers in training. They help out where they can and work on expanding their skills to eventually become developers
 
@@ -224,3 +228,5 @@ Moderators
 .. |dooder07| image:: https://crafatar.com/renders/head/b6bd2ceb-4922-4707-9173-8a02044e9069?size=1&overlay
 .. |Prride| image:: https://crafatar.com/renders/head/5e7db6d3-add9-4aab-b1fc-3dda8f5713f4?size=1&overlay
 .. |Dreig_Michihi| image:: https://crafatar.com/renders/head/71d42b35-dd94-408e-941d-88d4a61031c7?size=1&overlay
+.. |cutiepiemommy| image:: https://crafatar.com/renders/head/b1b873b3-6fad-4a52-bc75-eef5fb54d1be?size=1&overlay
+.. |shubhkk| image:: https://crafatar.com/renders/head/9714a3e6-a297-48a3-9706-55def5a3eaf2?size=1&overlay
