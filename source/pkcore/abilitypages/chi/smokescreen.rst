@@ -23,11 +23,11 @@ Permissions
 ###########
 Below is a table that outlines the permission nodes for this ability.
 
-+-------------------------------------+-----------------------------+---------+
-| Permission                          | Function                    | Default |
-+-------------------------------------+-----------------------------+---------+
-| bending.ability.smokescreen          | Access to Smokescreen ability| true    |
-+-------------------------------------+-----------------------------+---------+
++-------------------------------------+------------------------------+---------+
+| Permission                          | Function                     | Default |
++-------------------------------------+------------------------------+---------+
+| bending.ability.smokescreen         | Access to Smokescreen ability| true    |
++-------------------------------------+------------------------------+---------+
 
 Configuration
 #############

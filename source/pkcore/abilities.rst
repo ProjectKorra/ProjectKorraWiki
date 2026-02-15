@@ -4,6 +4,16 @@ Elements and Abilities
 Each element has a variety of abilities that can be used for combat, exploration, and gathering resources.
 Below are outlines of each element and the abilities they contain.
 
+Template
+========
+Use this template to create new ability pages. Replace the content with the appropriate information for the new ability.
+
+.. toctree::
+    :name: templatetree
+    :maxdepth: 1
+
+    ../_page_templates/ability_template
+
 Airbending
 ==========
 Air is the element of freedom. Airbenders are quick, agile, and
@@ -21,12 +31,10 @@ Airbending abilities focus on mobility and evasiveness, limiting their combat po
     abilitypages/air/airburst
     abilitypages/air/tornado
     abilitypages/air/airblast
-    abilitypages/air/airhsield
+    abilitypages/air/airshield
     abilitypages/air/suffocate
     abilitypages/air/airscooter
     abilitypages/air/airswipe
-
-
 
 Earthbending
 ============
@@ -109,5 +117,5 @@ Chiblocking abilities focus on close quarters combat and countering bending abil
     abilitypages/chi/smokescreen
     abilitypages/chi/warriorstance
     abilitypages/chi/rapidpunch
-    abilitypages/chi/Highjump
+    abilitypages/chi/highjump
     abilitypages/chi/quickstrike
